@@ -75564,15 +75564,20 @@
     <desc lang="el">Cyprus League by Stoiximan 2026-27. 3η Αγωνιστική.  Περιγραφή: Τόλης Χριστοφοράκης.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260914020000 +0300" stop="20260914040000 +0300" channel="XTV100001072">
+  <programme start="20260914020000 +0300" stop="20260914050000 +0300" channel="XTV100001072">
     <title lang="el">Ποδόσφαιρο: Κιλμάρνοκ - Αμπερντίν</title>
     <desc lang="el">Premier Sports Cup 2026-27. Προημιτελική Φάση.  Περιγραφή: Πάρης Τσελεπίδης.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260914040000 +0300" stop="20260914060000 +0300" channel="XTV100001072">
-    <title lang="el">Ποδόσφαιρο: Σέφιλντ Γιουνάιτεντ - Γουλβς</title>
-    <desc lang="el">Sky Bet EFL Championship 2026-27. 7η Αγωνιστική.  Περιγραφή: Γιώργος Θαναηλάκης.</desc>
-    <category lang="el">Ποδόσφαιρο</category>
+  <programme start="20260914050000 +0300" stop="20260914053000 +0300" channel="XTV100001072">
+    <title lang="el">Sports Classics: Sporting Countdowns</title>
+    <desc lang="el">Επεισόδιο: Moments. Δείτε ένα επεισόδιο της σειράς Sporting Countdowns.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260914053000 +0300" stop="20260914060000 +0300" channel="XTV100001072">
+    <title lang="el">Sports Classics: Sporting Countdowns</title>
+    <desc lang="el">Επεισόδιο: Comebacks. Δείτε ένα επεισόδιο της σειράς Sporting Countdowns.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20260914060000 +0300" stop="20260914063000 +0300" channel="XTV100001072">
     <title lang="el">William Hill Scottish Premiership - Στιγμιότυπα</title>
@@ -75624,12 +75629,17 @@
     <desc lang="el">Sky Bet EFL Championship 2026-27. 7η Αγωνιστική.  Περιγραφή: Γιώργος Θαναηλάκης.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260915020000 +0300" stop="20260915040000 +0300" channel="XTV100001072">
-    <title lang="el">Ποδόσφαιρο: Σεντ Τζόνστον - Χιμπέρνιαν</title>
-    <desc lang="el">William Hill Scottish Premiership 2026-27. 6η Αγωνιστική. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
-    <category lang="el">Ποδόσφαιρο</category>
+  <programme start="20260915020000 +0300" stop="20260915023000 +0300" channel="XTV100001072">
+    <title lang="el">Sports Classics: Ultimate Rush Κ6 Ε3</title>
+    <desc lang="el">Γιατί οι αθλητές των extreme sports θέτουν τη ζωή τους σε κίνδυνο; Η σειρά επικεντρώνεται στα εξωφρενικά κατορθώματα μερικών από τους καλύτερους αθλητές στον κόσμο.</desc>
+    <category lang="el">Αθλητισμός - Αθλητές</category>
   </programme>
-  <programme start="20260915040000 +0300" stop="20260915060000 +0300" channel="XTV100001072">
+  <programme start="20260915023000 +0300" stop="20260915030000 +0300" channel="XTV100001072">
+    <title lang="el">Sports Classics: Ultimate Rush Κ6 Ε4</title>
+    <desc lang="el">Γιατί οι αθλητές των extreme sports θέτουν τη ζωή τους σε κίνδυνο; Η σειρά επικεντρώνεται στα εξωφρενικά κατορθώματα μερικών από τους καλύτερους αθλητές στον κόσμο.</desc>
+    <category lang="el">Αθλητισμός - Αθλητές</category>
+  </programme>
+  <programme start="20260915030000 +0300" stop="20260915060000 +0300" channel="XTV100001072">
     <title lang="el">Ποδόσφαιρο: Κιλμάρνοκ - Αμπερντίν</title>
     <desc lang="el">Premier Sports Cup 2026-27. Προημιτελική Φάση.  Περιγραφή: Πάρης Τσελεπίδης.</desc>
     <category lang="el">Ποδόσφαιρο</category>
@@ -75679,15 +75689,20 @@
     <desc lang="el">William Hill Scottish Premiership 2026-27. 6η Αγωνιστική. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260915180000 +0300" stop="20260915200000 +0300" channel="XTV100001072">
+  <programme start="20260915180000 +0300" stop="20260915210000 +0300" channel="XTV100001072">
     <title lang="el">Ποδόσφαιρο: Κιλμάρνοκ - Αμπερντίν</title>
     <desc lang="el">Premier Sports Cup 2026-27. Προημιτελική Φάση.  Περιγραφή: Πάρης Τσελεπίδης.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260915200000 +0300" stop="20260915220000 +0300" channel="XTV100001072">
-    <title lang="el">Ποδόσφαιρο: Σέφιλντ Γιουνάιτεντ - Γουλβς</title>
-    <desc lang="el">Sky Bet EFL Championship 2026-27. 7η Αγωνιστική.  Περιγραφή: Γιώργος Θαναηλάκης.</desc>
-    <category lang="el">Ποδόσφαιρο</category>
+  <programme start="20260915210000 +0300" stop="20260915213000 +0300" channel="XTV100001072">
+    <title lang="el">Sports Classics: Ultimate Rush Κ6 Ε3</title>
+    <desc lang="el">Γιατί οι αθλητές των extreme sports θέτουν τη ζωή τους σε κίνδυνο; Η σειρά επικεντρώνεται στα εξωφρενικά κατορθώματα μερικών από τους καλύτερους αθλητές στον κόσμο.</desc>
+    <category lang="el">Αθλητισμός - Αθλητές</category>
+  </programme>
+  <programme start="20260915213000 +0300" stop="20260915220000 +0300" channel="XTV100001072">
+    <title lang="el">Sports Classics: Ultimate Rush Κ6 Ε4</title>
+    <desc lang="el">Γιατί οι αθλητές των extreme sports θέτουν τη ζωή τους σε κίνδυνο; Η σειρά επικεντρώνεται στα εξωφρενικά κατορθώματα μερικών από τους καλύτερους αθλητές στον κόσμο.</desc>
+    <category lang="el">Αθλητισμός - Αθλητές</category>
   </programme>
   <programme start="20260915220000 +0300" stop="20260916000000 +0300" channel="XTV100001072">
     <title lang="el">Ποδόσφαιρο: Ανόρθωση - ΑΠΟΕΛ</title>
@@ -75724,15 +75739,20 @@
     <desc lang="el">Sky Bet EFL Championship 2026-27. 7η Αγωνιστική.  Περιγραφή: Γιώργος Θαναηλάκης.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260916120000 +0300" stop="20260916140000 +0300" channel="XTV100001072">
+  <programme start="20260916120000 +0300" stop="20260916150000 +0300" channel="XTV100001072">
     <title lang="el">Ποδόσφαιρο: Κιλμάρνοκ - Αμπερντίν</title>
     <desc lang="el">Premier Sports Cup 2026-27. Προημιτελική Φάση.  Περιγραφή: Πάρης Τσελεπίδης.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260916140000 +0300" stop="20260916160000 +0300" channel="XTV100001072">
-    <title lang="el">Ποδόσφαιρο: Ντέρμπι - Μπέρμιγχαμ</title>
-    <desc lang="el">Sky Bet EFL Championship 2026-27. 7η Αγωνιστική.  Περιγραφή: Γιώργος Θαναηλάκης.</desc>
-    <category lang="el">Ποδόσφαιρο</category>
+  <programme start="20260916150000 +0300" stop="20260916153000 +0300" channel="XTV100001072">
+    <title lang="el">Sports Classics: Ultimate Rush Κ6 Ε5</title>
+    <desc lang="el">Γιατί οι αθλητές των extreme sports θέτουν τη ζωή τους σε κίνδυνο; Η σειρά επικεντρώνεται στα εξωφρενικά κατορθώματα μερικών από τους καλύτερους αθλητές στον κόσμο.</desc>
+    <category lang="el">Αθλητισμός - Αθλητές</category>
+  </programme>
+  <programme start="20260916153000 +0300" stop="20260916160000 +0300" channel="XTV100001072">
+    <title lang="el">Sports Classics: Ultimate Rush Κ6 Ε6</title>
+    <desc lang="el">Γιατί οι αθλητές των extreme sports θέτουν τη ζωή τους σε κίνδυνο; Η σειρά επικεντρώνεται στα εξωφρενικά κατορθώματα μερικών από τους καλύτερους αθλητές στον κόσμο.</desc>
+    <category lang="el">Αθλητισμός - Αθλητές</category>
   </programme>
   <programme start="20260916160000 +0300" stop="20260916175000 +0300" channel="XTV100001072">
     <title lang="el">Ποδόσφαιρο: Ομόνοια - Απόλλων Λεμεσού</title>
@@ -75849,27 +75869,17 @@
     <desc lang="el">Γιατί οι αθλητές των extreme sports θέτουν τη ζωή τους σε κίνδυνο; Η σειρά επικεντρώνεται στα εξωφρενικά κατορθώματα μερικών από τους καλύτερους αθλητές στον κόσμο.</desc>
     <category lang="el">Αθλητισμός - Αθλητές</category>
   </programme>
-  <programme start="20260918110000 +0300" stop="20260918113000 +0300" channel="XTV100001072">
-    <title lang="el">Sports Classics: Ultimate Rush Κ6 Ε7</title>
-    <desc lang="el">Γιατί οι αθλητές των extreme sports θέτουν τη ζωή τους σε κίνδυνο; Η σειρά επικεντρώνεται στα εξωφρενικά κατορθώματα μερικών από τους καλύτερους αθλητές στον κόσμο.</desc>
-    <category lang="el">Αθλητισμός - Αθλητές</category>
-  </programme>
-  <programme start="20260918113000 +0300" stop="20260918120000 +0300" channel="XTV100001072">
-    <title lang="el">William Hill Scottish Premiership - Στιγμιότυπα</title>
-    <desc lang="el">6η Αγωνιστική. Δείτε τις καλύτερες στιγμές από την 1η κατηγορία του σκωτσέζικου ποδοσφαίρου, της δεύτερης παλαιότερης λίγκας στην Ευρώπη.</desc>
-    <category lang="el">Ποδόσφαιρο</category>
-  </programme>
-  <programme start="20260918120000 +0300" stop="20260918140000 +0300" channel="XTV100001072">
+  <programme start="20260918110000 +0300" stop="20260918130000 +0300" channel="XTV100001072">
     <title lang="el">Ποδόσφαιρο: Ρέιντζερς - Σέλτικ</title>
     <desc lang="el">Premier Sports Cup 2026-27. Προημιτελική Φάση.  Περιγραφή: Πάρης Τσελεπίδης.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260918140000 +0300" stop="20260918160000 +0300" channel="XTV100001072">
+  <programme start="20260918130000 +0300" stop="20260918150000 +0300" channel="XTV100001072">
     <title lang="el">Ποδόσφαιρο: Σέφιλντ Γιουνάιτεντ - Γουλβς</title>
     <desc lang="el">Sky Bet EFL Championship 2026-27. 7η Αγωνιστική.  Περιγραφή: Γιώργος Θαναηλάκης.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260918160000 +0300" stop="20260918180000 +0300" channel="XTV100001072">
+  <programme start="20260918150000 +0300" stop="20260918180000 +0300" channel="XTV100001072">
     <title lang="el">Ποδόσφαιρο: Κιλμάρνοκ - Αμπερντίν</title>
     <desc lang="el">Premier Sports Cup 2026-27. Προημιτελική Φάση.  Περιγραφή: Πάρης Τσελεπίδης.</desc>
     <category lang="el">Ποδόσφαιρο</category>
@@ -79414,17 +79424,12 @@
     <desc lang="el">Επεισόδιο: Κίνα. Στιγμιότυπα.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260913220000 +0300" stop="20260914010000 +0300" channel="XTV100001360">
+  <programme start="20260913220000 +0300" stop="20260914014000 +0300" channel="XTV100001360">
     <title lang="el">Πολεμικές Τέχνες: UFC Fight Night 2026</title>
     <desc lang="el">Ζαν Σϊλβα - Χοσέ Μιγκέλ Ντελγκάδο. Γκλέντεϊλ, ΗΠΑ. Η 'μάχη' μεταξύ των πολεμικών τεχνών και η ανάδειξη του 'απόλυτου πρωταθλητή' μόνο στα κανάλια Magenta Sport.</desc>
     <category lang="el">Πολεμικές Τέχνες</category>
   </programme>
-  <programme start="20260914010000 +0300" stop="20260914013000 +0300" channel="XTV100001360">
-    <title lang="el">UIPM Highlights Show Ε5</title>
-    <desc lang="el">Επεισόδιο: Κίνα. Στιγμιότυπα.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20260914013000 +0300" stop="20260914040000 +0300" channel="XTV100001360">
+  <programme start="20260914014000 +0300" stop="20260914040000 +0300" channel="XTV100001360">
     <title lang="el">Premier Padel Tour 2026</title>
     <desc lang="el">Παρίσι (Τελικός Γυναικών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Πάντελ</category>
@@ -79844,12 +79849,12 @@
     <desc lang="el">Χάλε. Παρακολουθήστε τα στιγμιότυπα των κυριότερων αγώνων των τουρνουά ATP 500, που ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260919020000 +0300" stop="20260919030000 +0300" channel="XTV100001360">
-    <title lang="el">ATP 500 2026 - Στιγμιότυπα</title>
-    <desc lang="el">Ουάσινγκτον. Παρακολουθήστε τα στιγμιότυπα των κυριότερων αγώνων των τουρνουά ATP 500, που ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών.</desc>
+  <programme start="20260919020000 +0300" stop="20260919022000 +0300" channel="XTV100001360">
+    <title lang="el">Αθλητικά Στιγμιότυπα</title>
+    <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20260919030000 +0300" stop="20260919060000 +0300" channel="XTV100001360">
+  <programme start="20260919022000 +0300" stop="20260919060000 +0300" channel="XTV100001360">
     <title lang="el">Πολεμικές Τέχνες: UFC Fight Night 2026</title>
     <desc lang="el">Ζαν Σϊλβα - Χοσέ Μιγκέλ Ντελγκάδο. Γκλέντεϊλ, ΗΠΑ. Η 'μάχη' μεταξύ των πολεμικών τεχνών και η ανάδειξη του 'απόλυτου πρωταθλητή' μόνο στα κανάλια Magenta Sport.</desc>
     <category lang="el">Πολεμικές Τέχνες</category>
@@ -81959,17 +81964,12 @@
     <desc lang="el">Serie A 2026-27. 4η Αγωνιστική.  Περιγραφή: Μάνος Σπανόπουλος.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260913210000 +0300" stop="20260913220500 +0300" channel="XTV900000002">
-    <title lang="el">ERC 2026</title>
-    <desc lang="el">Ηνωμένο Βασίλειο, SS16 Ty Glyn 2. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος. Περιγραφή: Χρήστος Βασιλείου.</desc>
-    <category lang="el">Μηχανοκίνητα</category>
-  </programme>
-  <programme start="20260913220500 +0300" stop="20260914000500 +0300" channel="XTV900000002">
+  <programme start="20260913210000 +0300" stop="20260914000000 +0300" channel="XTV900000002">
     <title lang="el">Ποδόσφαιρο: Κιλμάρνοκ - Αμπερντίν</title>
     <desc lang="el">Premier Sports Cup 2026-27. Προημιτελική Φάση.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260914000500 +0300" stop="20260914002000 +0300" channel="XTV900000002">
+  <programme start="20260914000000 +0300" stop="20260914002000 +0300" channel="XTV900000002">
     <title lang="el">Αθλητικά Στιγμιότυπα</title>
     <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
     <category lang="el">Στιγμιότυπα</category>
@@ -117323,12 +117323,17 @@
   </programme>
   <programme start="20260914160000 +0300" stop="20260914180000 +0300" channel="XTV100000955">
     <title lang="el">Ποδόσφαιρο: Πανιώνιος - Απόλλων 1926 (Ζ)</title>
-    <desc lang="el">Greek Superbet League 2 2026 - 27. 2η Αγωνιστική. Αγώνας 6. Η 2η τη τάξει ελληνική κατηγορία διεξάγεται με τη συμμετοχή 16 ομάδων, ανάμεσά τους οι 2ες ομάδες ΠΑΟΚ, Αστέρα Τρίπολης και Ολυμπιακού.</desc>
+    <desc lang="el">Greek Superbet League 2 2026 - 27. 2η Αγωνιστική. Ο Πανιώνιος ξεκίνησε με νίκη το πρωτάθλημα και υποδέχεται τον Απόλλωνα Καλαμαριάς, έχοντας ως στόχο το 2/2, σε ένα παιχνίδι που θα διεξαχθεί ανήμερα των γενεθλίων του συλλόγου.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20260914180000 +0300" stop="20260914193000 +0300" channel="XTV100000955">
-    <title lang="el">Η Αυτοκρατορία του Σκέιτ (Ε)</title>
-    <desc lang="el">H άγνωστη ιστορία του πιο πολυσυζητημένου, αλλά λιγότερο κατανοητού brand στον κόσμο μέσα από τη ματιά της 'The Supreme Team': μιας ομάδας νεαρών skaters της Νέας Υόρκης το 1994 που έθεσαν τα θεμέλια για ένα κίνημα που θα επαναπροσδιόριζε ριζικά τη σύγχρονη μόδα και τη νεανική κουλτούρα.</desc>
+  <programme start="20260914180000 +0300" stop="20260914190000 +0300" channel="XTV100000955">
+    <title lang="el">Ρεπορτάζ 360 Ε1 (Ε)</title>
+    <desc lang="el">Επεισόδιο: Αργεντινή: Το γυναικείο πόλο με άλογα. Η Αργεντινή κυριαρχεί στο πόλο με το διεθνές τουρνουά Open του Παλέρμο που διεξάγεται κάθε χρόνο στο Μπουένος Άιρες. Αν και παραδοσιακά ανδροκρατούμενο, οι γυναίκες κερδίζουν γρήγορα τη θέση τους στο άθλημα.</desc>
+    <category lang="el">Αληθινές Ιστορίες</category>
+  </programme>
+  <programme start="20260914190000 +0300" stop="20260914193000 +0300" channel="XTV100000955">
+    <title lang="el">Οι Πρωταθλητές (Ε)</title>
+    <desc lang="el">Επεισόδιο: Οι Τολμηροί. Η αιώνια συζήτηση στον αθλητισμό. Ποιος είναι ο κορυφαίος όλων των εποχών; Ένα επεισόδιο ανά κάθε άθλημα εξετάζει τους υποψήφιους και τις αξιώσεις τους για τον τίτλο του κορυφαίου.</desc>
     <category lang="el">Αθλητισμός - Αθλητές</category>
   </programme>
   <programme start="20260914193000 +0300" stop="20260914213000 +0300" channel="XTV100000955">
@@ -117343,7 +117348,7 @@
   </programme>
   <programme start="20260914220000 +0300" stop="20260915000000 +0300" channel="XTV100000955">
     <title lang="el">Βόλεϊ: Σλοβενία - Ελλάδα (Ζ)</title>
-    <desc lang="el">Ευρωπαϊκό Πρωτάθλημα Ανδρών. Από τις 29 Αυγούστου έως τις 16 Σεπτεμβρίου οι κορυφαίες ομάδες της Γηραιάς Ηπείρου διεκδικούν τη νίκη και την κατάκτηση των μεταλλίων. Την 34η διοργάνωση φιλοξενούν η Ιταλία, η Βουλγαρία, η Βόρεια Μακεδονία και το Ισραήλ.</desc>
+    <desc lang="el">Ευρωπαϊκό Πρωτάθλημα Ανδρών. Η Ελλάδα γνώρισε 2η ήττα στο Ευρωπαϊκό Πρωτάθλημα, καθώς μετά την αρνητική πρεμιέρα της κόντρα στην Τσεχία (3-1), ηττήθηκε από την οικοδέσποινα Ιταλία με 3-0 σετ. Με αντίπαλο τη Σλοβενία, στοχεύει στην πρώτη νίκη στο τουρνουά.</desc>
     <category lang="el">Βόλεϊ</category>
   </programme>
   <programme start="20260915000000 +0300" stop="20260915020000 +0300" channel="XTV100000955">

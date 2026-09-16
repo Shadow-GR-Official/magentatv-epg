@@ -3454,205 +3454,780 @@
     <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
     <category lang="el">Special</category>
   </programme>
-  <programme start="20260916120000 +0300" stop="20260916160000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260916120000 +0300" stop="20260916121500 +0300" channel="XTV900000001">
+    <title lang="el">Η Συνταγή της Καρδιάς μας</title>
+    <desc lang="el">Συνταγές μαγειρικής.</desc>
+    <category lang="el">Μαγειρική</category>
   </programme>
-  <programme start="20260916160000 +0300" stop="20260916200000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260916121500 +0300" stop="20260916123000 +0300" channel="XTV900000001">
+    <title lang="el">Art Cafe</title>
+    <desc lang="el">Μουσικό φίλερ.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
-  <programme start="20260916200000 +0300" stop="20260917000000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260916123000 +0300" stop="20260916140000 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
   </programme>
-  <programme start="20260917000000 +0300" stop="20260917040000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260916140000 +0300" stop="20260916153000 +0300" channel="XTV900000001">
+    <title lang="el">Ξένη Ταινία</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένες, ξένες ταινίες. (90')</desc>
+    <category lang="el">Ταινία</category>
   </programme>
-  <programme start="20260917040000 +0300" stop="20260917080000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260916153000 +0300" stop="20260916160000 +0300" channel="XTV900000001">
+    <title lang="el">Extreme Sports</title>
+    <desc lang="el">Σπορ εκτός ορίων.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260917080000 +0300" stop="20260917120000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260916160000 +0300" stop="20260916164500 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
   </programme>
-  <programme start="20260917120000 +0300" stop="20260917160000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260916164500 +0300" stop="20260916170000 +0300" channel="XTV900000001">
+    <title lang="el">Cabare</title>
+    <desc lang="el">Αναδρομή στις Μουσικές και τα Show του παρελθόντος.</desc>
+    <category lang="el">Μουσική</category>
   </programme>
-  <programme start="20260917160000 +0300" stop="20260917200000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260916170000 +0300" stop="20260916180000 +0300" channel="XTV900000001">
+    <title lang="el">Tacoma FD</title>
+    <desc lang="el">Κωμική ματιά σε πυροσβέστες που παλεύουν με την πλήξη τους.</desc>
+    <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260917200000 +0300" stop="20260918000000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260916180000 +0300" stop="20260916190000 +0300" channel="XTV900000001">
+    <title lang="el">Αυτοκράτειρες στο Παλάτι</title>
+    <desc lang="el">Μια νεαρή της οικογένειας των Οκτώ Λάβαρων παντρεύεται τον αυτοκράτορα της δυναστείας Τσινγκ. Αφού επιβιώνει πολλά δολοφονικά σκάνδαλα και προδοσίες, επικρατεί ως η πιο ισχυρή γυναίκα στο χαρέμι του αυτοκράτορα, η χήρα αυτοκράτειρα.</desc>
+    <category lang="el">Δραματική</category>
   </programme>
-  <programme start="20260918000000 +0300" stop="20260918040000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260916190000 +0300" stop="20260916200000 +0300" channel="XTV900000001">
+    <title lang="el">Ming Dynasty</title>
+    <desc lang="el">Η Ιστορία των χρόνων της Δυναστείας των Μίνγκ, που για 100 χρόνια αιματοκύλησαν τη χώρα με ίντριγκες, δολοφονίες και πολέμους, έως ότου μια κοπέλα γίνεται Αυτοκράτειρα για να διορθώσει τη διεφθαρμένη χώρα της.</desc>
+    <category lang="el">Ιστορική</category>
   </programme>
-  <programme start="20260918040000 +0300" stop="20260918080000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260916200000 +0300" stop="20260916220000 +0300" channel="XTV900000001">
+    <title lang="el">Αντιθέσεις</title>
+    <desc lang="el">Πολιτικό Talk Show με τους δημοσιογράφους Βαγγέλη Γιακουμή και Άννα Καραβοκύρη.</desc>
+    <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20260918080000 +0300" stop="20260918120000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260916220000 +0300" stop="20260916230000 +0300" channel="XTV900000001">
+    <title lang="el">Tell me a story</title>
+    <desc lang="el">Μια σειρά ανθολογίας που περιλαμβάνει αγαπημένα παραμύθια που συνυφαίνονται σε μια ανατρεπτική ιστορία αγάπης, απώλειας, απληστίας, εκδίκησης και φόνου.</desc>
+    <category lang="el">Ψυχολογικό Θρίλερ</category>
   </programme>
-  <programme start="20260918120000 +0300" stop="20260918160000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260916230000 +0300" stop="20260917003500 +0300" channel="XTV900000001">
+    <title lang="el">Ξένη Ταινία</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένες, ξένες ταινίες. (95')</desc>
+    <category lang="el">Ταινία</category>
   </programme>
-  <programme start="20260918160000 +0300" stop="20260918200000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260917003500 +0300" stop="20260917013500 +0300" channel="XTV900000001">
+    <title lang="el">Tacoma FD</title>
+    <desc lang="el">Κωμική ματιά σε πυροσβέστες που παλεύουν με την πλήξη τους.</desc>
+    <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260918200000 +0300" stop="20260919000000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260917013500 +0300" stop="20260917060000 +0300" channel="XTV900000001">
+    <title lang="el">Κλασικές Ταινίες</title>
+    <desc lang="el">Από την ταινιοθήκη του Attica TV. (265')</desc>
+    <category lang="el">Ταινία</category>
   </programme>
-  <programme start="20260919000000 +0300" stop="20260919040000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260917060000 +0300" stop="20260917070000 +0300" channel="XTV900000001">
+    <title lang="el">Μουσικό Πρωινό</title>
+    <desc lang="el">Μουσική εκπομπή.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
-  <programme start="20260919040000 +0300" stop="20260919080000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260917070000 +0300" stop="20260917080000 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
   </programme>
-  <programme start="20260919080000 +0300" stop="20260919120000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260917080000 +0300" stop="20260917090000 +0300" channel="XTV900000001">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Απολαύστε επιλεγμένα ντοκιμαντέρ.</desc>
+    <category lang="el">Άλλο</category>
   </programme>
-  <programme start="20260919120000 +0300" stop="20260919160000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260917090000 +0300" stop="20260917110000 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
   </programme>
-  <programme start="20260919160000 +0300" stop="20260919200000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260917110000 +0300" stop="20260917120000 +0300" channel="XTV900000001">
+    <title lang="el">Ο Κόσμος του Τσίρκου</title>
+    <desc lang="el">Θεαματικές παραστάσεις τσίρκου.</desc>
+    <category lang="el">Σόου</category>
   </programme>
-  <programme start="20260919200000 +0300" stop="20260920000000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260917120000 +0300" stop="20260917121500 +0300" channel="XTV900000001">
+    <title lang="el">Η Συνταγή της Καρδιάς μας</title>
+    <desc lang="el">Συνταγές μαγειρικής.</desc>
+    <category lang="el">Μαγειρική</category>
   </programme>
-  <programme start="20260920000000 +0300" stop="20260920040000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260917121500 +0300" stop="20260917123000 +0300" channel="XTV900000001">
+    <title lang="el">Art Cafe</title>
+    <desc lang="el">Μουσικό φίλερ.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
-  <programme start="20260920040000 +0300" stop="20260920080000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260917123000 +0300" stop="20260917140000 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
   </programme>
-  <programme start="20260920080000 +0300" stop="20260920120000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260917140000 +0300" stop="20260917143500 +0300" channel="XTV900000001">
+    <title lang="el">Ξένη Ταινία</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένες, ξένες ταινίες. (35')</desc>
+    <category lang="el">Ταινία</category>
   </programme>
-  <programme start="20260920120000 +0300" stop="20260920160000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260917143500 +0300" stop="20260917160000 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
   </programme>
-  <programme start="20260920160000 +0300" stop="20260920200000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260917160000 +0300" stop="20260917164500 +0300" channel="XTV900000001">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Απολαύστε επιλεγμένα ντοκιμαντέρ.</desc>
+    <category lang="el">Άλλο</category>
   </programme>
-  <programme start="20260920200000 +0300" stop="20260921000000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260917164500 +0300" stop="20260917170000 +0300" channel="XTV900000001">
+    <title lang="el">Εικόνες της Γης</title>
+    <desc lang="el">Πανέμορφες εικόνες από όλα τα μήκη και πλάτη της Γης.</desc>
+    <category lang="el">Φύση - Ανθρωπολογία</category>
   </programme>
-  <programme start="20260921000000 +0300" stop="20260921040000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260917170000 +0300" stop="20260917180000 +0300" channel="XTV900000001">
+    <title lang="el">Tacoma FD</title>
+    <desc lang="el">Κωμική ματιά σε πυροσβέστες που παλεύουν με την πλήξη τους.</desc>
+    <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260921040000 +0300" stop="20260921080000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260917180000 +0300" stop="20260917190000 +0300" channel="XTV900000001">
+    <title lang="el">Αυτοκράτειρες στο Παλάτι</title>
+    <desc lang="el">Μια νεαρή της οικογένειας των Οκτώ Λάβαρων παντρεύεται τον αυτοκράτορα της δυναστείας Τσινγκ. Αφού επιβιώνει πολλά δολοφονικά σκάνδαλα και προδοσίες, επικρατεί ως η πιο ισχυρή γυναίκα στο χαρέμι του αυτοκράτορα, η χήρα αυτοκράτειρα.</desc>
+    <category lang="el">Δραματική</category>
   </programme>
-  <programme start="20260921080000 +0300" stop="20260921120000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260917190000 +0300" stop="20260917200000 +0300" channel="XTV900000001">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Απολαύστε επιλεγμένα ντοκιμαντέρ.</desc>
+    <category lang="el">Άλλο</category>
   </programme>
-  <programme start="20260921120000 +0300" stop="20260921160000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260917200000 +0300" stop="20260917210000 +0300" channel="XTV900000001">
+    <title lang="el">Οι Περιπέτειες του Λοχαγού</title>
+    <desc lang="el">Η ιστορία ενός Βρετανού στρατιωτικού κατά τους Ναπολεόντειους Πολέμους καθώς μάχεται εναντίον του εχθρού και των προκαταλήψεων της Βρετανικής αριστοκρατίας.</desc>
+    <category lang="el">Εποχής</category>
   </programme>
-  <programme start="20260921160000 +0300" stop="20260921200000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260917210000 +0300" stop="20260917220000 +0300" channel="XTV900000001">
+    <title lang="el">Ming Dynasty</title>
+    <desc lang="el">Η Ιστορία των χρόνων της Δυναστείας των Μίνγκ, που για 100 χρόνια αιματοκύλησαν τη χώρα με ίντριγκες, δολοφονίες και πολέμους, έως ότου μια κοπέλα γίνεται Αυτοκράτειρα για να διορθώσει τη διεφθαρμένη χώρα της.</desc>
+    <category lang="el">Ιστορική</category>
   </programme>
-  <programme start="20260921200000 +0300" stop="20260922000000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260917220000 +0300" stop="20260917230000 +0300" channel="XTV900000001">
+    <title lang="el">Origin</title>
+    <desc lang="el">Μια ομάδα αγνώστων αγωνίζεται για επιβίωση σε ένα διαστημόπλοιο που κατευθύνεται σε έναν μακρινό πλανήτη.</desc>
+    <category lang="el">Επιστ. Φαντασίας</category>
   </programme>
-  <programme start="20260922000000 +0300" stop="20260922040000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260917230000 +0300" stop="20260918003000 +0300" channel="XTV900000001">
+    <title lang="el">Ξένη Ταινία</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένες, ξένες ταινίες. (90')</desc>
+    <category lang="el">Ταινία</category>
   </programme>
-  <programme start="20260922040000 +0300" stop="20260922080000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260918003000 +0300" stop="20260918003500 +0300" channel="XTV900000001">
+    <title lang="el">Origin</title>
+    <desc lang="el">Μια ομάδα αγνώστων αγωνίζεται για επιβίωση σε ένα διαστημόπλοιο που κατευθύνεται σε έναν μακρινό πλανήτη.</desc>
+    <category lang="el">Επιστ. Φαντασίας</category>
   </programme>
-  <programme start="20260922080000 +0300" stop="20260922120000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260918003500 +0300" stop="20260918015000 +0300" channel="XTV900000001">
+    <title lang="el">Tacoma FD</title>
+    <desc lang="el">Κωμική ματιά σε πυροσβέστες που παλεύουν με την πλήξη τους.</desc>
+    <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20260922120000 +0300" stop="20260922160000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260918015000 +0300" stop="20260918060000 +0300" channel="XTV900000001">
+    <title lang="el">Κλασικές Ταινίες</title>
+    <desc lang="el">Από την ταινιοθήκη του Attica TV. (250')</desc>
+    <category lang="el">Ταινία</category>
   </programme>
-  <programme start="20260922160000 +0300" stop="20260922200000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260918060000 +0300" stop="20260918070000 +0300" channel="XTV900000001">
+    <title lang="el">Μουσικό Πρωινό</title>
+    <desc lang="el">Μουσική εκπομπή.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
   </programme>
-  <programme start="20260922200000 +0300" stop="20260923000000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260918070000 +0300" stop="20260918080000 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
   </programme>
-  <programme start="20260923000000 +0300" stop="20260923040000 +0300" channel="XTV900000001">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
+  <programme start="20260918080000 +0300" stop="20260918090000 +0300" channel="XTV900000001">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Απολαύστε επιλεγμένα ντοκιμαντέρ.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260918090000 +0300" stop="20260918093000 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
+  </programme>
+  <programme start="20260918093000 +0300" stop="20260918094500 +0300" channel="XTV900000001">
+    <title lang="el">Η Συνταγή της Καρδιάς μας</title>
+    <desc lang="el">Συνταγές μαγειρικής.</desc>
+    <category lang="el">Μαγειρική</category>
+  </programme>
+  <programme start="20260918094500 +0300" stop="20260918100000 +0300" channel="XTV900000001">
+    <title lang="el">Εικόνες της Γης</title>
+    <desc lang="el">Πανέμορφες εικόνες από όλα τα μήκη και πλάτη της Γης.</desc>
+    <category lang="el">Φύση - Ανθρωπολογία</category>
+  </programme>
+  <programme start="20260918100000 +0300" stop="20260918110000 +0300" channel="XTV900000001">
+    <title lang="el">Ο Κόσμος του Τσίρκου</title>
+    <desc lang="el">Θεαματικές παραστάσεις τσίρκου.</desc>
+    <category lang="el">Σόου</category>
+  </programme>
+  <programme start="20260918110000 +0300" stop="20260918120000 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
+  </programme>
+  <programme start="20260918120000 +0300" stop="20260918122000 +0300" channel="XTV900000001">
+    <title lang="el">Extreme Sports</title>
+    <desc lang="el">Σπορ εκτός ορίων.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260918122000 +0300" stop="20260918123000 +0300" channel="XTV900000001">
+    <title lang="el">Art Cafe</title>
+    <desc lang="el">Μουσικό φίλερ.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260918123000 +0300" stop="20260918130000 +0300" channel="XTV900000001">
+    <title lang="el">Στιγμές Ιστορίας</title>
+    <desc lang="el">Γεγονότα που σημάδεψαν τη ροή της ιστορίας.</desc>
+    <category lang="el">Ιστορικό - Πολεμικό</category>
+  </programme>
+  <programme start="20260918130000 +0300" stop="20260918133000 +0300" channel="XTV900000001">
+    <title lang="el">Make my Day</title>
+    <desc lang="el">Εκπομπή με περίεργες ειδήσεις και χιουμοριστικά βίντεο από όλο τον κόσμο, για ένα χαλαρό και όμορφο ξεκίνημα.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260918133000 +0300" stop="20260918140000 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
+  </programme>
+  <programme start="20260918140000 +0300" stop="20260918160000 +0300" channel="XTV900000001">
+    <title lang="el">Τα Παντελόνια είναι Περίεργα Ρούχα</title>
+    <desc lang="el">Μια εκπομπή για το λαϊκό τραγούδι και τους δημιουργούς του.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260918160000 +0300" stop="20260918163000 +0300" channel="XTV900000001">
+    <title lang="el">Από Σταθμό σε Σταθμό</title>
+    <desc lang="el">Αξέχαστες ταξιδιωτικές και γαστρονομικές εμπειρίες με την Πόπη Δημητριάδη.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260918163000 +0300" stop="20260918170000 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
+  </programme>
+  <programme start="20260918170000 +0300" stop="20260918180000 +0300" channel="XTV900000001">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Απολαύστε επιλεγμένα ντοκιμαντέρ.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260918180000 +0300" stop="20260918190000 +0300" channel="XTV900000001">
+    <title lang="el">Πάνω από τα Όρια</title>
+    <desc lang="el">Μια εκπομπή που πληροφορεί για ο,τι νεότερο από τον κόσμο των δύο και των τεσσάρων τροχών. Πληροφορεί για όλα τα νέα μοντέλα, παρουσιάζει θέματα ασφάλειας και ασχολείται με το μηχανοκίνητο αθλητισμό και cart. (ΤΠ)</desc>
+    <category lang="el">Μηχανοκίνητα</category>
+  </programme>
+  <programme start="20260918190000 +0300" stop="20260918192500 +0300" channel="XTV900000001">
+    <title lang="el">Αστέρια του Ποδοσφαίρου</title>
+    <desc lang="el">Η ζωή ξένων ποδοσφαιριστών που αγωνίζονται στην Ιταλία.</desc>
+    <category lang="el">Αληθινές Ιστορίες</category>
+  </programme>
+  <programme start="20260918192500 +0300" stop="20260918200000 +0300" channel="XTV900000001">
+    <title lang="el">Το Μαύρο Βιβλίο</title>
+    <desc lang="el">Ο Μπέρναρντ Μπλακ διατηρεί ένα βιβλιοπωλείο, αν και οι δεξιότητές του στην εξυπηρέτηση πελατών είναι ελλιπείς. Προσλαμβάνει τον Μάνι ως υπάλληλο. Η Φραν διατηρεί το διπλανό κατάστημα. Μεταξύ των τριών ακολουθούν πολλές περιπέτειες.</desc>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20260918200000 +0300" stop="20260918210000 +0300" channel="XTV900000001">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Απολαύστε επιλεγμένα ντοκιμαντέρ.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260918210000 +0300" stop="20260918222000 +0300" channel="XTV900000001">
+    <title lang="el">Ξένη Σειρά</title>
+    <desc lang="el">Ξένη σειρά.</desc>
+    <category lang="el">Ψυχολογικό Δράμα</category>
+  </programme>
+  <programme start="20260918222000 +0300" stop="20260918223000 +0300" channel="XTV900000001">
+    <title lang="el">Drink it</title>
+    <desc lang="el">Φίλερ.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260918223000 +0300" stop="20260919003000 +0300" channel="XTV900000001">
+    <title lang="el">Ξένη Ταινία</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένες, ξένες ταινίες. (120')</desc>
+    <category lang="el">Ταινία</category>
+  </programme>
+  <programme start="20260919003000 +0300" stop="20260919013000 +0300" channel="XTV900000001">
+    <title lang="el">Πυρετός το Σαββατόβραδο</title>
+    <desc lang="el">Το σαββατόβραδο η πίστα παίρνει φωτιά με έναν ξέφρενο χορό κάτω από την ντισκομπάλα.</desc>
+    <category lang="el">Μουσική</category>
+  </programme>
+  <programme start="20260919013000 +0300" stop="20260919023000 +0300" channel="XTV900000001">
+    <title lang="el">Πάνω από τα Όρια</title>
+    <desc lang="el">Μια εκπομπή που πληροφορεί για ο,τι νεότερο από τον κόσμο των δύο και των τεσσάρων τροχών. Πληροφορεί για όλα τα νέα μοντέλα, παρουσιάζει θέματα ασφάλειας και ασχολείται με το μηχανοκίνητο αθλητισμό και cart. (ΤΠ)</desc>
+    <category lang="el">Μηχανοκίνητα</category>
+  </programme>
+  <programme start="20260919023000 +0300" stop="20260919064500 +0300" channel="XTV900000001">
+    <title lang="el">Κλασικές Ταινίες</title>
+    <desc lang="el">Από την ταινιοθήκη του Attica TV. (255')</desc>
+    <category lang="el">Ταινία</category>
+  </programme>
+  <programme start="20260919064500 +0300" stop="20260919070000 +0300" channel="XTV900000001">
+    <title lang="el">Μουσικό Πρωινό</title>
+    <desc lang="el">Μουσική εκπομπή.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260919070000 +0300" stop="20260919080000 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
+  </programme>
+  <programme start="20260919080000 +0300" stop="20260919083000 +0300" channel="XTV900000001">
+    <title lang="el">Θέατρο Σκιών</title>
+    <desc lang="el">Παραστάσεις Καραγκιόζη.</desc>
+    <category lang="el">Θέατρο - Όπερα</category>
+  </programme>
+  <programme start="20260919083000 +0300" stop="20260919093000 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
+  </programme>
+  <programme start="20260919093000 +0300" stop="20260919094500 +0300" channel="XTV900000001">
+    <title lang="el">Η Συνταγή της Καρδιάς μας</title>
+    <desc lang="el">Συνταγές μαγειρικής.</desc>
+    <category lang="el">Μαγειρική</category>
+  </programme>
+  <programme start="20260919094500 +0300" stop="20260919100000 +0300" channel="XTV900000001">
+    <title lang="el">Εικόνες της Γης</title>
+    <desc lang="el">Πανέμορφες εικόνες από όλα τα μήκη και πλάτη της Γης.</desc>
+    <category lang="el">Φύση - Ανθρωπολογία</category>
+  </programme>
+  <programme start="20260919100000 +0300" stop="20260919110000 +0300" channel="XTV900000001">
+    <title lang="el">Ο Κόσμος του Τσίρκου</title>
+    <desc lang="el">Θεαματικές παραστάσεις τσίρκου.</desc>
+    <category lang="el">Σόου</category>
+  </programme>
+  <programme start="20260919110000 +0300" stop="20260919123000 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
+  </programme>
+  <programme start="20260919123000 +0300" stop="20260919130000 +0300" channel="XTV900000001">
+    <title lang="el">Extreme Sports</title>
+    <desc lang="el">Σπορ εκτός ορίων.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260919130000 +0300" stop="20260919140000 +0300" channel="XTV900000001">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Απολαύστε επιλεγμένα ντοκιμαντέρ.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260919140000 +0300" stop="20260919160000 +0300" channel="XTV900000001">
+    <title lang="el">Τα Παντελόνια είναι Περίεργα Ρούχα</title>
+    <desc lang="el">Μια εκπομπή για το λαϊκό τραγούδι και τους δημιουργούς του.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260919160000 +0300" stop="20260919163000 +0300" channel="XTV900000001">
+    <title lang="el">Από Σταθμό σε Σταθμό</title>
+    <desc lang="el">Αξέχαστες ταξιδιωτικές και γαστρονομικές εμπειρίες με την Πόπη Δημητριάδη.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260919163000 +0300" stop="20260919170000 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
+  </programme>
+  <programme start="20260919170000 +0300" stop="20260919180000 +0300" channel="XTV900000001">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Απολαύστε επιλεγμένα ντοκιμαντέρ.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260919180000 +0300" stop="20260919190000 +0300" channel="XTV900000001">
+    <title lang="el">Revolution</title>
+    <desc lang="el">Μια φρέσκια οπτική στον χώρο του αυτοκινήτου με επίκεντρο τη βελτίωση, τα supercars και τις αστείρευτες ιπποδυνάμεις. Drift, Dragster, καμένο λάστιχο και μοναδικός ήχος από πολλαπλές εξατμίσεις συνθέτουν μια μοναδική εμπειρία για κάθε τηλεθεατή που αγαπά τις αυτοκινητιστικές συγκινήσεις.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260919190000 +0300" stop="20260919192500 +0300" channel="XTV900000001">
+    <title lang="el">Το Ταξίδι του Σύμπαντος</title>
+    <desc lang="el">Μια επική ιστορία για τον κοσμικό, γήινο και ανθρώπινο μετασχηματισμό από τη Μεγάλη Έκρηξη μέχρι σήμερα. Μια κομψή αφήγηση που φωτίζει και τιμά τον βαθύ ρόλο που διαδραματίζουν οι άνθρωποι στην άνθηση της Γης.</desc>
+    <category lang="el">Φύση - Ανθρωπολογία</category>
+  </programme>
+  <programme start="20260919192500 +0300" stop="20260919200000 +0300" channel="XTV900000001">
+    <title lang="el">Το Μαύρο Βιβλίο</title>
+    <desc lang="el">Ο Μπέρναρντ Μπλακ διατηρεί ένα βιβλιοπωλείο, αν και οι δεξιότητές του στην εξυπηρέτηση πελατών είναι ελλιπείς. Προσλαμβάνει τον Μάνι ως υπάλληλο. Η Φραν διατηρεί το διπλανό κατάστημα. Μεταξύ των τριών ακολουθούν πολλές περιπέτειες.</desc>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20260919200000 +0300" stop="20260919210000 +0300" channel="XTV900000001">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Απολαύστε επιλεγμένα ντοκιμαντέρ.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260919210000 +0300" stop="20260919222000 +0300" channel="XTV900000001">
+    <title lang="el">Ξένη Σειρά</title>
+    <desc lang="el">Ξένη σειρά.</desc>
+    <category lang="el">Ψυχολογικό Δράμα</category>
+  </programme>
+  <programme start="20260919222000 +0300" stop="20260919223000 +0300" channel="XTV900000001">
+    <title lang="el">Drink it</title>
+    <desc lang="el">Φίλερ.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260919223000 +0300" stop="20260920005000 +0300" channel="XTV900000001">
+    <title lang="el">Ξένη Ταινία</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένες, ξένες ταινίες. (140')</desc>
+    <category lang="el">Ταινία</category>
+  </programme>
+  <programme start="20260920005000 +0300" stop="20260920015000 +0300" channel="XTV900000001">
+    <title lang="el">Revolution</title>
+    <desc lang="el">Μια φρέσκια οπτική στον χώρο του αυτοκινήτου με επίκεντρο τη βελτίωση, τα supercars και τις αστείρευτες ιπποδυνάμεις. Drift, Dragster, καμένο λάστιχο και μοναδικός ήχος από πολλαπλές εξατμίσεις συνθέτουν μια μοναδική εμπειρία για κάθε τηλεθεατή που αγαπά τις αυτοκινητιστικές συγκινήσεις.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260920015000 +0300" stop="20260920043000 +0300" channel="XTV900000001">
+    <title lang="el">Ξένη Σειρά</title>
+    <desc lang="el">Ξένη σειρά.</desc>
+    <category lang="el">Ψυχολογικό Δράμα</category>
+  </programme>
+  <programme start="20260920043000 +0300" stop="20260920060000 +0300" channel="XTV900000001">
+    <title lang="el">Κλασικές Ταινίες</title>
+    <desc lang="el">Από την ταινιοθήκη του Attica TV. (90')</desc>
+    <category lang="el">Ταινία</category>
+  </programme>
+  <programme start="20260920060000 +0300" stop="20260920070000 +0300" channel="XTV900000001">
+    <title lang="el">Μουσικό Πρωινό</title>
+    <desc lang="el">Μουσική εκπομπή.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260920070000 +0300" stop="20260920080000 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
+  </programme>
+  <programme start="20260920080000 +0300" stop="20260920090000 +0300" channel="XTV900000001">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Απολαύστε επιλεγμένα ντοκιμαντέρ.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260920090000 +0300" stop="20260920093000 +0300" channel="XTV900000001">
+    <title lang="el">Εικόνες της Γης</title>
+    <desc lang="el">Πανέμορφες εικόνες από όλα τα μήκη και πλάτη της Γης.</desc>
+    <category lang="el">Φύση - Ανθρωπολογία</category>
+  </programme>
+  <programme start="20260920093000 +0300" stop="20260920110000 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
+  </programme>
+  <programme start="20260920110000 +0300" stop="20260920120000 +0300" channel="XTV900000001">
+    <title lang="el">Πάνω από τα Όρια</title>
+    <desc lang="el">Μια εκπομπή που πληροφορεί για ο,τι νεότερο από τον κόσμο των δύο και των τεσσάρων τροχών. Πληροφορεί για όλα τα νέα μοντέλα, παρουσιάζει θέματα ασφάλειας και ασχολείται με το μηχανοκίνητο αθλητισμό και cart. (ΤΠ)</desc>
+    <category lang="el">Μηχανοκίνητα</category>
+  </programme>
+  <programme start="20260920120000 +0300" stop="20260920130000 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
+  </programme>
+  <programme start="20260920130000 +0300" stop="20260920140000 +0300" channel="XTV900000001">
+    <title lang="el">Ο Κόσμος του Τσίρκου</title>
+    <desc lang="el">Θεαματικές παραστάσεις τσίρκου.</desc>
+    <category lang="el">Σόου</category>
+  </programme>
+  <programme start="20260920140000 +0300" stop="20260920144500 +0300" channel="XTV900000001">
+    <title lang="el">Cosmos: A Spacetime Odyssey</title>
+    <desc lang="el">Περισσότερες από τρεις δεκαετίες μετά το ντεμπούτο του 'Cosmos: A Personal Voyage', η εκπληκτική εξερεύνηση του διαστήματος του Carl Sagan αποκαλύπτεται από την επιστήμη, καθώς το Cosmos: A Spacetime Odyssey ξεκινά ένα καινούριο ταξίδι στα αστέρια.</desc>
+    <category lang="el">Επιστήμη - Μηχανική</category>
+  </programme>
+  <programme start="20260920144500 +0300" stop="20260920153000 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
+  </programme>
+  <programme start="20260920153000 +0300" stop="20260920170000 +0300" channel="XTV900000001">
+    <title lang="el">Ξένη Ταινία</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένες, ξένες ταινίες. (90')</desc>
+    <category lang="el">Ταινία</category>
+  </programme>
+  <programme start="20260920170000 +0300" stop="20260920180000 +0300" channel="XTV900000001">
+    <title lang="el">Tacoma FD</title>
+    <desc lang="el">Κωμική ματιά σε πυροσβέστες που παλεύουν με την πλήξη τους.</desc>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20260920180000 +0300" stop="20260920185000 +0300" channel="XTV900000001">
+    <title lang="el">Αυτοκράτειρες στο Παλάτι</title>
+    <desc lang="el">Μια νεαρή της οικογένειας των Οκτώ Λάβαρων παντρεύεται τον αυτοκράτορα της δυναστείας Τσινγκ. Αφού επιβιώνει πολλά δολοφονικά σκάνδαλα και προδοσίες, επικρατεί ως η πιο ισχυρή γυναίκα στο χαρέμι του αυτοκράτορα, η χήρα αυτοκράτειρα.</desc>
+    <category lang="el">Δραματική</category>
+  </programme>
+  <programme start="20260920185000 +0300" stop="20260920190000 +0300" channel="XTV900000001">
+    <title lang="el">Art Cafe</title>
+    <desc lang="el">Μουσικό φίλερ.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260920190000 +0300" stop="20260920200000 +0300" channel="XTV900000001">
+    <title lang="el">Ming Dynasty</title>
+    <desc lang="el">Η Ιστορία των χρόνων της Δυναστείας των Μίνγκ, που για 100 χρόνια αιματοκύλησαν τη χώρα με ίντριγκες, δολοφονίες και πολέμους, έως ότου μια κοπέλα γίνεται Αυτοκράτειρα για να διορθώσει τη διεφθαρμένη χώρα της.</desc>
+    <category lang="el">Ιστορική</category>
+  </programme>
+  <programme start="20260920200000 +0300" stop="20260920220000 +0300" channel="XTV900000001">
+    <title lang="el">Αντιθέσεις</title>
+    <desc lang="el">Πολιτικό Talk Show με τους δημοσιογράφους Βαγγέλη Γιακουμή και Άννα Καραβοκύρη.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260920220000 +0300" stop="20260920230000 +0300" channel="XTV900000001">
+    <title lang="el">Tell me a story</title>
+    <desc lang="el">Μια σειρά ανθολογίας που περιλαμβάνει αγαπημένα παραμύθια που συνυφαίνονται σε μια ανατρεπτική ιστορία αγάπης, απώλειας, απληστίας, εκδίκησης και φόνου.</desc>
+    <category lang="el">Ψυχολογικό Θρίλερ</category>
+  </programme>
+  <programme start="20260920230000 +0300" stop="20260921003500 +0300" channel="XTV900000001">
+    <title lang="el">Ξένη Ταινία</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένες, ξένες ταινίες. (95')</desc>
+    <category lang="el">Ταινία</category>
+  </programme>
+  <programme start="20260921003500 +0300" stop="20260921012000 +0300" channel="XTV900000001">
+    <title lang="el">Tacoma FD</title>
+    <desc lang="el">Κωμική ματιά σε πυροσβέστες που παλεύουν με την πλήξη τους.</desc>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20260921012000 +0300" stop="20260921060000 +0300" channel="XTV900000001">
+    <title lang="el">Κλασικές Ταινίες</title>
+    <desc lang="el">Από την ταινιοθήκη του Attica TV. (280')</desc>
+    <category lang="el">Ταινία</category>
+  </programme>
+  <programme start="20260921060000 +0300" stop="20260921070000 +0300" channel="XTV900000001">
+    <title lang="el">Μουσικό Πρωινό</title>
+    <desc lang="el">Μουσική εκπομπή.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260921070000 +0300" stop="20260921090000 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
+  </programme>
+  <programme start="20260921090000 +0300" stop="20260921095000 +0300" channel="XTV900000001">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Απολαύστε επιλεγμένα ντοκιμαντέρ.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260921095000 +0300" stop="20260921100000 +0300" channel="XTV900000001">
+    <title lang="el">Εικόνες της Γης</title>
+    <desc lang="el">Πανέμορφες εικόνες από όλα τα μήκη και πλάτη της Γης.</desc>
+    <category lang="el">Φύση - Ανθρωπολογία</category>
+  </programme>
+  <programme start="20260921100000 +0300" stop="20260921110000 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
+  </programme>
+  <programme start="20260921110000 +0300" stop="20260921120000 +0300" channel="XTV900000001">
+    <title lang="el">Ο Κόσμος του Τσίρκου</title>
+    <desc lang="el">Θεαματικές παραστάσεις τσίρκου.</desc>
+    <category lang="el">Σόου</category>
+  </programme>
+  <programme start="20260921120000 +0300" stop="20260921130000 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
+  </programme>
+  <programme start="20260921130000 +0300" stop="20260921131500 +0300" channel="XTV900000001">
+    <title lang="el">Η Συνταγή της Καρδιάς μας</title>
+    <desc lang="el">Συνταγές μαγειρικής.</desc>
+    <category lang="el">Μαγειρική</category>
+  </programme>
+  <programme start="20260921131500 +0300" stop="20260921133000 +0300" channel="XTV900000001">
+    <title lang="el">Art Cafe</title>
+    <desc lang="el">Μουσικό φίλερ.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260921133000 +0300" stop="20260921134500 +0300" channel="XTV900000001">
+    <title lang="el">Καρ Νάου</title>
+    <desc lang="el">Φίλλερ αυτοκινήτου.</desc>
+    <category lang="el">Σειρά Ντοκιμαντέρ</category>
+  </programme>
+  <programme start="20260921134500 +0300" stop="20260921140000 +0300" channel="XTV900000001">
+    <title lang="el">In Style</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή με προτάσεις για αγορές, ομορφιά και διασκέδαση. (ΤΠ)</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260921140000 +0300" stop="20260921144500 +0300" channel="XTV900000001">
+    <title lang="el">Cosmos: A Spacetime Odyssey</title>
+    <desc lang="el">Περισσότερες από τρεις δεκαετίες μετά το ντεμπούτο του 'Cosmos: A Personal Voyage', η εκπληκτική εξερεύνηση του διαστήματος του Carl Sagan αποκαλύπτεται από την επιστήμη, καθώς το Cosmos: A Spacetime Odyssey ξεκινά ένα καινούριο ταξίδι στα αστέρια.</desc>
+    <category lang="el">Επιστήμη - Μηχανική</category>
+  </programme>
+  <programme start="20260921144500 +0300" stop="20260921153000 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
+  </programme>
+  <programme start="20260921153000 +0300" stop="20260921170000 +0300" channel="XTV900000001">
+    <title lang="el">Ξένη Ταινία</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένες, ξένες ταινίες. (90')</desc>
+    <category lang="el">Ταινία</category>
+  </programme>
+  <programme start="20260921170000 +0300" stop="20260921180000 +0300" channel="XTV900000001">
+    <title lang="el">Tacoma FD</title>
+    <desc lang="el">Κωμική ματιά σε πυροσβέστες που παλεύουν με την πλήξη τους.</desc>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20260921180000 +0300" stop="20260921185000 +0300" channel="XTV900000001">
+    <title lang="el">Αυτοκράτειρες στο Παλάτι</title>
+    <desc lang="el">Μια νεαρή της οικογένειας των Οκτώ Λάβαρων παντρεύεται τον αυτοκράτορα της δυναστείας Τσινγκ. Αφού επιβιώνει πολλά δολοφονικά σκάνδαλα και προδοσίες, επικρατεί ως η πιο ισχυρή γυναίκα στο χαρέμι του αυτοκράτορα, η χήρα αυτοκράτειρα.</desc>
+    <category lang="el">Δραματική</category>
+  </programme>
+  <programme start="20260921185000 +0300" stop="20260921190000 +0300" channel="XTV900000001">
+    <title lang="el">Art Cafe</title>
+    <desc lang="el">Μουσικό φίλερ.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260921190000 +0300" stop="20260921200000 +0300" channel="XTV900000001">
+    <title lang="el">Ming Dynasty</title>
+    <desc lang="el">Η Ιστορία των χρόνων της Δυναστείας των Μίνγκ, που για 100 χρόνια αιματοκύλησαν τη χώρα με ίντριγκες, δολοφονίες και πολέμους, έως ότου μια κοπέλα γίνεται Αυτοκράτειρα για να διορθώσει τη διεφθαρμένη χώρα της.</desc>
+    <category lang="el">Ιστορική</category>
+  </programme>
+  <programme start="20260921200000 +0300" stop="20260921220000 +0300" channel="XTV900000001">
+    <title lang="el">Αντιθέσεις</title>
+    <desc lang="el">Πολιτικό Talk Show με τους δημοσιογράφους Βαγγέλη Γιακουμή και Άννα Καραβοκύρη.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260921220000 +0300" stop="20260921230000 +0300" channel="XTV900000001">
+    <title lang="el">Tell me a story</title>
+    <desc lang="el">Μια σειρά ανθολογίας που περιλαμβάνει αγαπημένα παραμύθια που συνυφαίνονται σε μια ανατρεπτική ιστορία αγάπης, απώλειας, απληστίας, εκδίκησης και φόνου.</desc>
+    <category lang="el">Ψυχολογικό Θρίλερ</category>
+  </programme>
+  <programme start="20260921230000 +0300" stop="20260922003000 +0300" channel="XTV900000001">
+    <title lang="el">Ξένη Ταινία</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένες, ξένες ταινίες. (90')</desc>
+    <category lang="el">Ταινία</category>
+  </programme>
+  <programme start="20260922003000 +0300" stop="20260922013000 +0300" channel="XTV900000001">
+    <title lang="el">Πάνω από τα Όρια</title>
+    <desc lang="el">Μια εκπομπή που πληροφορεί για ο,τι νεότερο από τον κόσμο των δύο και των τεσσάρων τροχών. Πληροφορεί για όλα τα νέα μοντέλα, παρουσιάζει θέματα ασφάλειας και ασχολείται με το μηχανοκίνητο αθλητισμό και cart. (ΤΠ)</desc>
+    <category lang="el">Μηχανοκίνητα</category>
+  </programme>
+  <programme start="20260922013000 +0300" stop="20260922021500 +0300" channel="XTV900000001">
+    <title lang="el">Tacoma FD</title>
+    <desc lang="el">Κωμική ματιά σε πυροσβέστες που παλεύουν με την πλήξη τους.</desc>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20260922021500 +0300" stop="20260922060000 +0300" channel="XTV900000001">
+    <title lang="el">Κλασικές Ταινίες</title>
+    <desc lang="el">Από την ταινιοθήκη του Attica TV. (225')</desc>
+    <category lang="el">Ταινία</category>
+  </programme>
+  <programme start="20260922060000 +0300" stop="20260922070000 +0300" channel="XTV900000001">
+    <title lang="el">Μουσικό Πρωινό</title>
+    <desc lang="el">Μουσική εκπομπή.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260922070000 +0300" stop="20260922080000 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
+  </programme>
+  <programme start="20260922080000 +0300" stop="20260922090000 +0300" channel="XTV900000001">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Απολαύστε επιλεγμένα ντοκιμαντέρ.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260922090000 +0300" stop="20260922110000 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
+  </programme>
+  <programme start="20260922110000 +0300" stop="20260922120000 +0300" channel="XTV900000001">
+    <title lang="el">Revolution</title>
+    <desc lang="el">Μια φρέσκια οπτική στον χώρο του αυτοκινήτου με επίκεντρο τη βελτίωση, τα supercars και τις αστείρευτες ιπποδυνάμεις. Drift, Dragster, καμένο λάστιχο και μοναδικός ήχος από πολλαπλές εξατμίσεις συνθέτουν μια μοναδική εμπειρία για κάθε τηλεθεατή που αγαπά τις αυτοκινητιστικές συγκινήσεις.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260922120000 +0300" stop="20260922130000 +0300" channel="XTV900000001">
+    <title lang="el">Ο Κόσμος του Τσίρκου</title>
+    <desc lang="el">Θεαματικές παραστάσεις τσίρκου.</desc>
+    <category lang="el">Σόου</category>
+  </programme>
+  <programme start="20260922130000 +0300" stop="20260922131500 +0300" channel="XTV900000001">
+    <title lang="el">Η Συνταγή της Καρδιάς μας</title>
+    <desc lang="el">Συνταγές μαγειρικής.</desc>
+    <category lang="el">Μαγειρική</category>
+  </programme>
+  <programme start="20260922131500 +0300" stop="20260922133000 +0300" channel="XTV900000001">
+    <title lang="el">Ιατρικές Ιστορίες</title>
+    <desc lang="el">Φίλερ συμβουλών Υγείας.</desc>
+    <category lang="el">Σειρά Ντοκιμαντέρ</category>
+  </programme>
+  <programme start="20260922133000 +0300" stop="20260922140000 +0300" channel="XTV900000001">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Απολαύστε επιλεγμένα ντοκιμαντέρ.</desc>
+    <category lang="el">Άλλο</category>
+  </programme>
+  <programme start="20260922140000 +0300" stop="20260922153000 +0300" channel="XTV900000001">
+    <title lang="el">Ξένη Ταινία</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένες, ξένες ταινίες. (90')</desc>
+    <category lang="el">Ταινία</category>
+  </programme>
+  <programme start="20260922153000 +0300" stop="20260922154500 +0300" channel="XTV900000001">
+    <title lang="el">Art Cafe</title>
+    <desc lang="el">Μουσικό φίλερ.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260922154500 +0300" stop="20260922160000 +0300" channel="XTV900000001">
+    <title lang="el">Η Συνταγή της Καρδιάς μας</title>
+    <desc lang="el">Συνταγές μαγειρικής.</desc>
+    <category lang="el">Μαγειρική</category>
+  </programme>
+  <programme start="20260922160000 +0300" stop="20260922164500 +0300" channel="XTV900000001">
+    <title lang="el">Κινούμενα Σχέδια</title>
+    <desc lang="el">Παρακολουθήστε παιδικές εκπομπές για τους μικρούς μας φίλους.</desc>
+    <category lang="el">Κιν. Σχεδίων</category>
+  </programme>
+  <programme start="20260922164500 +0300" stop="20260922170000 +0300" channel="XTV900000001">
+    <title lang="el">In Style</title>
+    <desc lang="el">Ψυχαγωγική εκπομπή με προτάσεις για αγορές, ομορφιά και διασκέδαση. (ΤΠ)</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+  </programme>
+  <programme start="20260922170000 +0300" stop="20260922180000 +0300" channel="XTV900000001">
+    <title lang="el">Tacoma FD</title>
+    <desc lang="el">Κωμική ματιά σε πυροσβέστες που παλεύουν με την πλήξη τους.</desc>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20260922180000 +0300" stop="20260922185000 +0300" channel="XTV900000001">
+    <title lang="el">Αυτοκράτειρες στο Παλάτι</title>
+    <desc lang="el">Μια νεαρή της οικογένειας των Οκτώ Λάβαρων παντρεύεται τον αυτοκράτορα της δυναστείας Τσινγκ. Αφού επιβιώνει πολλά δολοφονικά σκάνδαλα και προδοσίες, επικρατεί ως η πιο ισχυρή γυναίκα στο χαρέμι του αυτοκράτορα, η χήρα αυτοκράτειρα.</desc>
+    <category lang="el">Δραματική</category>
+  </programme>
+  <programme start="20260922185000 +0300" stop="20260922190000 +0300" channel="XTV900000001">
+    <title lang="el">Εικόνες της Γης</title>
+    <desc lang="el">Πανέμορφες εικόνες από όλα τα μήκη και πλάτη της Γης.</desc>
+    <category lang="el">Φύση - Ανθρωπολογία</category>
+  </programme>
+  <programme start="20260922190000 +0300" stop="20260922200000 +0300" channel="XTV900000001">
+    <title lang="el">Ming Dynasty</title>
+    <desc lang="el">Η Ιστορία των χρόνων της Δυναστείας των Μίνγκ, που για 100 χρόνια αιματοκύλησαν τη χώρα με ίντριγκες, δολοφονίες και πολέμους, έως ότου μια κοπέλα γίνεται Αυτοκράτειρα για να διορθώσει τη διεφθαρμένη χώρα της.</desc>
+    <category lang="el">Ιστορική</category>
+  </programme>
+  <programme start="20260922200000 +0300" stop="20260922220000 +0300" channel="XTV900000001">
+    <title lang="el">Αντιθέσεις</title>
+    <desc lang="el">Πολιτικό Talk Show με τους δημοσιογράφους Βαγγέλη Γιακουμή και Άννα Καραβοκύρη.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20260922220000 +0300" stop="20260922230000 +0300" channel="XTV900000001">
+    <title lang="el">Tell me a story</title>
+    <desc lang="el">Μια σειρά ανθολογίας που περιλαμβάνει αγαπημένα παραμύθια που συνυφαίνονται σε μια ανατρεπτική ιστορία αγάπης, απώλειας, απληστίας, εκδίκησης και φόνου.</desc>
+    <category lang="el">Ψυχολογικό Θρίλερ</category>
+  </programme>
+  <programme start="20260922230000 +0300" stop="20260923003500 +0300" channel="XTV900000001">
+    <title lang="el">Ξένη Ταινία</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένες, ξένες ταινίες. (95')</desc>
+    <category lang="el">Ταινία</category>
+  </programme>
+  <programme start="20260923003500 +0300" stop="20260923012500 +0300" channel="XTV900000001">
+    <title lang="el">Tacoma FD</title>
+    <desc lang="el">Κωμική ματιά σε πυροσβέστες που παλεύουν με την πλήξη τους.</desc>
+    <category lang="el">Κωμωδία</category>
+  </programme>
+  <programme start="20260923012500 +0300" stop="20260923060000 +0300" channel="XTV900000001">
+    <title lang="el">Κλασικές Ταινίες</title>
+    <desc lang="el">Από την ταινιοθήκη του Attica TV. (275')</desc>
+    <category lang="el">Ταινία</category>
   </programme>
   <programme start="20260915030000 +0300" stop="20260915040000 +0300" channel="XTV100002365">
     <title lang="el">Anthony Bourdain: No Reservations</title>
@@ -90731,12 +91306,12 @@
   </programme>
   <programme start="20260918190000 +0300" stop="20260918210000 +0300" channel="XTV600000608">
     <title lang="el">WTA 250 2026 (Ζ)</title>
-    <desc lang="el">Σάο Πάολο. Προημιτελικός. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών SP Open της σειράς WTA 250, που διεξάγεται το διάστημα 14-20 Σεπτεμβρίου στο Σάο Πάολο της Βραζιλίας.</desc>
+    <desc lang="el">Σάο Πάολο. Προημιτελικός. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών SP Open της σειράς WTA 250, που διεξάγεται το διάστημα 14-20 Σεπτεμβρίου στο Σάο Πάολο της Βραζιλίας. Περιγραφή: Δ. Στρούμπος</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260918210000 +0300" stop="20260918230000 +0300" channel="XTV600000608">
     <title lang="el">WTA 250 2026 (Ζ)</title>
-    <desc lang="el">Σάο Πάολο. Προημιτελικός. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών SP Open της σειράς WTA 250, που διεξάγεται το διάστημα 14-20 Σεπτεμβρίου στο Σάο Πάολο της Βραζιλίας.</desc>
+    <desc lang="el">Σάο Πάολο. Προημιτελικός. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών SP Open της σειράς WTA 250, που διεξάγεται το διάστημα 14-20 Σεπτεμβρίου στο Σάο Πάολο της Βραζιλίας. Περιγραφή: Απ. Κορτιάνος</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260918230000 +0300" stop="20260918233000 +0300" channel="XTV600000608">
@@ -93220,22 +93795,22 @@
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260916000000 +0300" stop="20260916040000 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας στις 11:30. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
   <programme start="20260916040000 +0300" stop="20260916060000 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας στις 11:30. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
   <programme start="20260916060000 +0300" stop="20260916100000 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας στις 11:30. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
   <programme start="20260916100000 +0300" stop="20260916113000 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας στις 11:30. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
@@ -93265,22 +93840,22 @@
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260917000000 +0300" stop="20260917040000 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας στις 11:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
   <programme start="20260917040000 +0300" stop="20260917060000 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας στις 11:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
   <programme start="20260917060000 +0300" stop="20260917100000 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας στις 11:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
   <programme start="20260917100000 +0300" stop="20260917110000 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας στις 11:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
@@ -93325,12 +93900,12 @@
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260918060000 +0300" stop="20260918100000 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας στις 12:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
   <programme start="20260918100000 +0300" stop="20260918120000 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας στις 12:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
@@ -93380,12 +93955,12 @@
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260919060000 +0300" stop="20260919100000 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας στις 12:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
   <programme start="20260919100000 +0300" stop="20260919120000 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας στις 12:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
@@ -93435,17 +94010,17 @@
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260920040000 +0300" stop="20260920060000 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας στις 11:30. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
   <programme start="20260920060000 +0300" stop="20260920100000 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας στις 11:30. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
   <programme start="20260920100000 +0300" stop="20260920113000 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας στις 11:30. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
@@ -93475,22 +94050,22 @@
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260921001500 +0300" stop="20260921041500 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας στις 12:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
   <programme start="20260921041500 +0300" stop="20260921060000 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας στις 12:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
   <programme start="20260921060000 +0300" stop="20260921100000 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας στις 12:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
   <programme start="20260921100000 +0300" stop="20260921120000 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας στις 12:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
@@ -93525,27 +94100,27 @@
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260921234500 +0300" stop="20260922000000 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας αύριο στις 12:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
   <programme start="20260922000000 +0300" stop="20260922040000 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας στις 12:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
   <programme start="20260922040000 +0300" stop="20260922060000 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας στις 12:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
   <programme start="20260922060000 +0300" stop="20260922100000 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας στις 12:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
   <programme start="20260922100000 +0300" stop="20260922120000 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας στις 12:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
@@ -93580,12 +94155,12 @@
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20260922234500 +0300" stop="20260923000000 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας αύριο στις 12:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
   <programme start="20260923000000 +0300" stop="20260923040000 +0300" channel="XTV600000606">
-    <title lang="el">Novasports 6 HD</title>
+    <title lang="el">Novasports6</title>
     <desc lang="el">Ξανά κοντά σας στις 12:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές στιγμές δράσης στους φίλους του τένις.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>

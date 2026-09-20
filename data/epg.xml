@@ -67714,29 +67714,29 @@
     <desc lang="el">ACB Supercopa Endesa 2026. 2ος Ημιτελικός.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260920115500 +0300" stop="20260920135500 +0300" channel="XTV100001109">
+  <programme start="20260920115500 +0300" stop="20260920133000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Ερυθρός Αστέρας - Ολυμπιακός</title>
     <desc lang="el">Crete International Basketball Tournament 2026. Τελικός.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260920135500 +0300" stop="20260920160000 +0300" channel="XTV100001109">
+  <programme start="20260920133000 +0300" stop="20260920153000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Προμηθέας - Ράστα Βέχτα</title>
     <desc lang="el">FIBA Basketball Champions League 2026-27. Προκριματική Φάση, Ημιτελικός.  Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260920160000 +0300" stop="20260920180000 +0300" channel="XTV100001109">
+  <programme start="20260920153000 +0300" stop="20260920173500 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Μπανταλόνα - Μπασκόνια</title>
     <desc lang="el">ACB Supercopa Endesa 2026. 1ος Ημιτελικός.  Περιγραφή: Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20260920180000 +0300" stop="20260920200000 +0300" channel="XTV100001109">
+  <programme start="20260920173500 +0300" stop="20260920200000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Βαλένθια - Μπαρτσελόνα</title>
     <desc lang="el">ACB Supercopa Endesa 2026. 2ος Ημιτελικός.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260920200000 +0300" stop="20260920223000 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: ACB Supercopa Endesa 2026 (Ζ)</title>
-    <desc lang="el">Τελικός. Το 23ο Σούπερ Καπ Ισπανίας φιλοξενείται στη Μπανταλόνα. Περιγραφή: Ρήγας Δάρδαλης.</desc>
+    <title lang="el">Μπάσκετ: Μπανταλόνα - Μπαρτσελόνα (Ζ)</title>
+    <desc lang="el">ACB Supercopa Endesa 2026. Τελικός. Το 23ο Σούπερ Καπ Ισπανίας φιλοξενείται στη Μπανταλόνα. Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260920223000 +0300" stop="20260921003500 +0300" channel="XTV100001109">
@@ -67745,8 +67745,8 @@
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260921003500 +0300" stop="20260921030500 +0300" channel="XTV100001109">
-    <title lang="el">Μπάσκετ: ACB Supercopa Endesa 2026</title>
-    <desc lang="el">Τελικός. Το 23ο Σούπερ Καπ Ισπανίας φιλοξενείται στη Μπανταλόνα. Περιγραφή: Ρήγας Δάρδαλης.</desc>
+    <title lang="el">Μπάσκετ: Μπανταλόνα - Μπαρτσελόνα</title>
+    <desc lang="el">ACB Supercopa Endesa 2026. Τελικός. Το 23ο Σούπερ Καπ Ισπανίας φιλοξενείται στη Μπανταλόνα. Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
   <programme start="20260921030500 +0300" stop="20260921033500 +0300" channel="XTV100001109">
@@ -70054,10 +70054,15 @@
     <desc lang="el">Αυτή η σειρά παρουσιάζει ένα ευρύ φάσμα υπαίθριων σπορ καθώς και τους αθλητές που αγωνίζονται σε αυτά. Η εκπομπή καλύπτει από επαγγελματικά και ψυχαγωγικά έως και extreme sports, όπως αγώνες μαραθωνίου, αναρρίχηση, σκι, σέρφινγκ, πεζοπορία, τρίαθλο, ιστιοπλοΐα και ποδηλασία.</desc>
     <category lang="el">Άλλο Άθλημα</category>
   </programme>
-  <programme start="20260921003000 +0300" stop="20260921043000 +0300" channel="XTV100001360">
+  <programme start="20260921003000 +0300" stop="20260921033500 +0300" channel="XTV100001360">
     <title lang="el">Πολεμικές Τέχνες: UFC Fight Night 2026</title>
     <desc lang="el">331: Τζόσουα Βαν - Αλεξάντερ Παντόγια. Λος 'Αντζελες, ΗΠΑ. Η 'μάχη' μεταξύ των πολεμικών τεχνών και η ανάδειξη του 'απόλυτου πρωταθλητή' μόνο στα κανάλια Magenta Sport.</desc>
     <category lang="el">Πολεμικές Τέχνες</category>
+  </programme>
+  <programme start="20260921033500 +0300" stop="20260921043000 +0300" channel="XTV100001360">
+    <title lang="el">ATP Masters 1000 2026 - Στιγμιότυπα</title>
+    <desc lang="el">Mόντρεαλ. Παρακολουθήστε τα στιγμιότυπα των κυριότερων αγώνων των τουρνουά ATP 1000, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20260921043000 +0300" stop="20260921050000 +0300" channel="XTV100001360">
     <title lang="el">Premier Padel Tour 2026 - Στιγμιότυπα</title>

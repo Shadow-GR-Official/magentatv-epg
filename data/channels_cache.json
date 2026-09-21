@@ -169,6 +169,16 @@
     "name": "MAD HD",
     "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/madhd-normal.png"
   },
+  "XTV900000008": {
+    "id": "XTV900000008",
+    "name": "MAD Rewind",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/mad_rewind_normal.png"
+  },
+  "XTV900000007": {
+    "id": "XTV900000007",
+    "name": "MAD Vibes",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/mad_vibes_normal.png"
+  },
   "XTV100000905": {
     "id": "XTV100000905",
     "name": "MAD Viral HD",

@@ -67,6 +67,10 @@ http://127.0.0.1/XTV100003510
 http://127.0.0.1/XTV100000957
 #EXTINF:-1 tvg-id="XTV100003424" tvg-name="MAD HD" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/madhd-normal.png",MAD HD
 http://127.0.0.1/XTV100003424
+#EXTINF:-1 tvg-id="XTV900000008" tvg-name="MAD Rewind" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/mad_rewind_normal.png",MAD Rewind
+http://127.0.0.1/XTV900000008
+#EXTINF:-1 tvg-id="XTV900000007" tvg-name="MAD Vibes" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/mad_vibes_normal.png",MAD Vibes
+http://127.0.0.1/XTV900000007
 #EXTINF:-1 tvg-id="XTV100000905" tvg-name="MAD Viral HD" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/madviralhd_new-normal.png",MAD Viral HD
 http://127.0.0.1/XTV100000905
 #EXTINF:-1 tvg-id="XTV100003227" tvg-name="MEGA HD" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/megahd-normal.png",MEGA HD

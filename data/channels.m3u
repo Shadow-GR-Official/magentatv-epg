@@ -79,6 +79,8 @@ http://127.0.0.1/XTV100003227
 http://127.0.0.1/XTV100003228
 #EXTINF:-1 tvg-id="XTV100001425" tvg-name="MEZZO LIVE HD" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/mezzolivehd_new-normal.png",MEZZO LIVE HD
 http://127.0.0.1/XTV100001425
+#EXTINF:-1 tvg-id="XTV100001965" tvg-name="Magenta Cinema 007" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/magenta_cinema007_normal.png",Magenta Cinema 007
+http://127.0.0.1/XTV100001965
 #EXTINF:-1 tvg-id="XTV100001106" tvg-name="Magenta Cinema 1" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/magenta_cinema1_normal.png",Magenta Cinema 1
 http://127.0.0.1/XTV100001106
 #EXTINF:-1 tvg-id="XTV100001060" tvg-name="Magenta Cinema 2" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/magenta_cinema2_normal.png",Magenta Cinema 2

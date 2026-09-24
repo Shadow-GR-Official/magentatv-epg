@@ -382,15 +382,15 @@
   </channel>
   <channel id="TST000000001">
     <display-name>TEST01</display-name>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/test01_new4-normal.png" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/m_test01_normal.png" />
   </channel>
   <channel id="TST000000002">
     <display-name>TEST02</display-name>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/test02-normal.png" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/m_test02_normal.png" />
   </channel>
   <channel id="TST000000004">
     <display-name>TESTDR</display-name>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/testdr-normal.png" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/m_testdr_normal.png" />
   </channel>
   <channel id="XTV100002045">
     <display-name>TV100</display-name>

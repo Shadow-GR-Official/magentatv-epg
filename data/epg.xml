@@ -61406,17 +61406,17 @@
     <desc lang="el">Μετά την κλοπή ενός βαθύπλουτου μεγιστάνα, οι έρευνες οδηγούν τον Τζέιμς Μποντ στο απόρθητο θησαυροφυλάκιο του Φορτ Νοξ, το οποίο απειλείται με επιδρομή από τον δαιμόνιο Χρυσοδάχτυλο και την ομάδα του. Η ταινία τιμήθηκε με Όσκαρ. (106')</desc>
     <category lang="el">Περιπέτεια</category>
   </programme>
-  <programme start="20261020172000 +0300" stop="20261020172500 +0300" channel="XTV100001965">
+  <programme start="20261020172000 +0300" stop="20261020173000 +0300" channel="XTV100001965">
     <title lang="el">The British Touch: Bond Returns to London</title>
     <desc lang="el">Μια απολαυστική ματιά στα παρασκήνια της ταινίας του Τζέιμς Μποντ 'Πέθανε μια άλλη μέρα', με πρωταγωνιστές τους Πιρς Μπρόσναν, Χάλι Μπέρι και Ρόζαμουντ Πάικ.</desc>
     <category lang="el">Ντοκιμαντέρ</category>
   </programme>
-  <programme start="20261020172500 +0300" stop="20261020194000 +0300" channel="XTV100001965">
+  <programme start="20261020173000 +0300" stop="20261020194500 +0300" channel="XTV100001965">
     <title lang="el">Πέθανε Μια Άλλη Μέρα</title>
     <desc lang="el">Αφού απελευθερώνεται από φυλακή της Βόρειας Κορέας, ο Τζέιμς Μποντ διερευνά τη σύνδεση ανάμεσα σε έναν αδίστακτο τρομοκράτη και έναν Βρετανό εκατομμυριούχο, που χρηματοδοτεί την κατασκευή ενός πανίσχυρου διαστημικού υπερόπλου. (128')</desc>
     <category lang="el">Περιπέτεια</category>
   </programme>
-  <programme start="20261020194000 +0300" stop="20261020220000 +0300" channel="XTV100001965">
+  <programme start="20261020194500 +0300" stop="20261020220000 +0300" channel="XTV100001965">
     <title lang="el">Τζέιμς Μποντ: Προσωπική Εκδίκηση</title>
     <desc lang="el">Ο 007 ξεπερνά κάθε όριο και γίνεται πιο επικίνδυνος από ποτέ, όταν ένας καλός του φίλος δέχεται δολοφονική επίθεση από έναν βαρόνο ναρκωτικών. Σκοπός του, να πάρει εκδίκηση... και μάλιστα χωρίς την άδεια της υπηρεσίας του. (128')</desc>
     <category lang="el">Περιπέτεια</category>
@@ -69481,32 +69481,27 @@
     <desc lang="el">FIBA Basketball Champions League 2026-27. Φάση Ομίλων, 2η Αγωνιστική.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261020130000 +0300" stop="20261020140000 +0300" channel="XTV100001109">
+  <programme start="20261020130000 +0300" stop="20261020141500 +0300" channel="XTV100001109">
     <title lang="el">Pick n' Roll</title>
     <desc lang="el">Πλούσια θεματολογία, ενδιαφέρουσες συνεντεύξεις και σούπερ θέαμα κάθε εβδομάδα στην μπασκετική εκπομπή Pick n' Roll.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20261020140000 +0300" stop="20261020160000 +0300" channel="XTV100001109">
+  <programme start="20261020141500 +0300" stop="20261020161500 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Τενερίφη - Μπασκόνια</title>
     <desc lang="el">ACB Liga Endesa 2026-27. 4η Αγωνιστική.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261020160000 +0300" stop="20261020180000 +0300" channel="XTV100001109">
+  <programme start="20261020161500 +0300" stop="20261020181500 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Μπανταλόνα - Μπαρτσελόνα</title>
     <desc lang="el">ACB Liga Endesa 2026-27. 4η Αγωνιστική.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261020180000 +0300" stop="20261020183000 +0300" channel="XTV100001109">
-    <title lang="el">NBA Specials</title>
-    <desc lang="el">NBA Shot Clock: 50 point games from 2025-2026 - Part 3. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20261020183000 +0300" stop="20261020210000 +0300" channel="XTV100001109">
+  <programme start="20261020181500 +0300" stop="20261020204500 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Γκόλντεν Στέιτ Βάλκιραϊς - Ατλάντα Ντριμ</title>
     <desc lang="el">WNBA Finals 2026. 2ος Αγώνας.  Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261020210000 +0300" stop="20261020220000 +0300" channel="XTV100001109">
+  <programme start="20261020204500 +0300" stop="20261020220000 +0300" channel="XTV100001109">
     <title lang="el">Pick n' Roll</title>
     <desc lang="el">Πλούσια θεματολογία, ενδιαφέρουσες συνεντεύξεις και σούπερ θέαμα κάθε εβδομάδα στην μπασκετική εκπομπή Pick n' Roll.</desc>
     <category lang="el">Εκπομπή</category>
@@ -69696,37 +69691,37 @@
     <desc lang="el">NBA Shot Clock: 50 point games from 2025-2026 - Part 3. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20261023081500 +0300" stop="20261023101500 +0300" channel="XTV100001109">
+  <programme start="20261023081500 +0300" stop="20261023101000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Τενερίφη - Μπασκόνια</title>
     <desc lang="el">ACB Liga Endesa 2026-27. 4η Αγωνιστική.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261023101500 +0300" stop="20261023104500 +0300" channel="XTV100001109">
-    <title lang="el">NBA Specials</title>
-    <desc lang="el">High Tops: Dennis Rodman Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+  <programme start="20261023101000 +0300" stop="20261023103000 +0300" channel="XTV100001109">
+    <title lang="el">Ισπανικό Πρωτάθλημα - 5η Περίοδος 2026-27 Ε4</title>
+    <desc lang="el">Δείτε τα καλύτερα στιγμιότυπα της 5ης περιόδου του Ισπανικού Πρωταθλήματος μπάσκετ.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20261023104500 +0300" stop="20261023131500 +0300" channel="XTV100001109">
+  <programme start="20261023103000 +0300" stop="20261023130000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Φιλαδέλφεια 76ερς - Κλίβελαντ Καβαλίερς</title>
     <desc lang="el">NBA 2026-27 - Κανονική Διάρκεια. Η 81η σεζόν του κορυφαίου πρωταθλήματος μπάσκετ ολοκληρώνεται στις 11 Απριλίου 2027. Περιγραφή: Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261023131500 +0300" stop="20261023152500 +0300" channel="XTV100001109">
+  <programme start="20261023130000 +0300" stop="20261023151000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: ΑΕΚ - Άντβερπ Τζάιαντς</title>
     <desc lang="el">FIBA Basketball Champions League 2026-27. Φάση Ομίλων, 3η Αγωνιστική.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261023152500 +0300" stop="20261023173000 +0300" channel="XTV100001109">
+  <programme start="20261023151000 +0300" stop="20261023171500 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Φενέρμπαχτσε - Πετκίμ</title>
     <desc lang="el">Turkish Basketball Super League 2026-27. 4η Αγωνιστική.  Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261023173000 +0300" stop="20261023195500 +0300" channel="XTV100001109">
+  <programme start="20261023171500 +0300" stop="20261023194000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Ατλάντα Ντριμ - Γκόλντεν Στέιτ Βάλκιραϊς</title>
     <desc lang="el">WNBA Finals 2026. 3ος Αγώνας.  Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261023195500 +0300" stop="20261023205500 +0300" channel="XTV100001109">
+  <programme start="20261023194000 +0300" stop="20261023205500 +0300" channel="XTV100001109">
     <title lang="el">Pick n' Roll</title>
     <desc lang="el">Πλούσια θεματολογία, ενδιαφέρουσες συνεντεύξεις και σούπερ θέαμα κάθε εβδομάδα στην μπασκετική εκπομπή Pick n' Roll.</desc>
     <category lang="el">Εκπομπή</category>
@@ -69746,19 +69741,14 @@
     <desc lang="el">Turkish Basketball Super League 2026-27. 4η Αγωνιστική.  Περιγραφή: Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261024020000 +0300" stop="20261024030000 +0300" channel="XTV100001109">
+  <programme start="20261024020000 +0300" stop="20261024031500 +0300" channel="XTV100001109">
     <title lang="el">Pick n' Roll</title>
     <desc lang="el">Πλούσια θεματολογία, ενδιαφέρουσες συνεντεύξεις και σούπερ θέαμα κάθε εβδομάδα στην μπασκετική εκπομπή Pick n' Roll.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20261024030000 +0300" stop="20261024033000 +0300" channel="XTV100001109">
+  <programme start="20261024031500 +0300" stop="20261024034500 +0300" channel="XTV100001109">
     <title lang="el">NBA Specials</title>
     <desc lang="el">NBA Shot Clock: 50 point games from 2025-2026 - Part 3. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20261024033000 +0300" stop="20261024034500 +0300" channel="XTV100001109">
-    <title lang="el">Αθλητικά Στιγμιότυπα</title>
-    <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20261024034500 +0300" stop="20261024060000 +0300" channel="XTV100001109">
@@ -69776,22 +69766,22 @@
     <desc lang="el">High Tops: Larry Bird's Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20261024083000 +0300" stop="20261024090000 +0300" channel="XTV100001109">
-    <title lang="el">NBA Specials</title>
-    <desc lang="el">High Tops: Dennis Rodman Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
+  <programme start="20261024083000 +0300" stop="20261024084500 +0300" channel="XTV100001109">
+    <title lang="el">Ισπανικό Πρωτάθλημα - 5η Περίοδος 2026-27 Ε4</title>
+    <desc lang="el">Δείτε τα καλύτερα στιγμιότυπα της 5ης περιόδου του Ισπανικού Πρωταθλήματος μπάσκετ.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20261024090000 +0300" stop="20261024111000 +0300" channel="XTV100001109">
+  <programme start="20261024084500 +0300" stop="20261024105500 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: ΑΕΚ - Άντβερπ Τζάιαντς</title>
     <desc lang="el">FIBA Basketball Champions League 2026-27. Φάση Ομίλων, 3η Αγωνιστική.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261024111000 +0300" stop="20261024132500 +0300" channel="XTV100001109">
+  <programme start="20261024105500 +0300" stop="20261024131000 +0300" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Ατλάντα Ντριμ - Γκόλντεν Στέιτ Βάλκιραϊς</title>
     <desc lang="el">WNBA Finals 2026. 3ος Αγώνας.  Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261024132500 +0300" stop="20261024142500 +0300" channel="XTV100001109">
+  <programme start="20261024131000 +0300" stop="20261024142500 +0300" channel="XTV100001109">
     <title lang="el">Pick n' Roll</title>
     <desc lang="el">Πλούσια θεματολογία, ενδιαφέρουσες συνεντεύξεις και σούπερ θέαμα κάθε εβδομάδα στην μπασκετική εκπομπή Pick n' Roll.</desc>
     <category lang="el">Εκπομπή</category>
@@ -107223,8 +107213,8 @@
     <category lang="el">Ειδήσεις</category>
   </programme>
   <programme start="20261020220000 +0300" stop="20261020230000 +0300" channel="XTV100003524">
-    <title lang="el">Force</title>
-    <desc lang="el">Ο Σωτήρης Δανέζης παρουσιάζει ένα μαγκαζίνο με έμφαση στη γεωπολιτική σκακιέρα και τις στρατηγικές συγκρούσεις, που αποκαλύπτει τις δυναμικές που διαμορφώνουν τον παγκόσμιο χάρτη.</desc>
+    <title lang="el">Force Κ2 Ε3</title>
+    <desc lang="el">Η Elisabeth Braw, ανώτερη ερευνήτρια του Atlantic Council, μιλά στον Σωτήρη Δανέζη για την κρίσιμη κατάσταση στα Στενά του Ορμούζ.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20261020230000 +0300" stop="20261021000000 +0300" channel="XTV100003524">

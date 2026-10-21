@@ -21351,9 +21351,14 @@
     <desc lang="el">Τα κορίτσια γίνονται η σκιά της Βερόνικα Χιλ. Μια βασίλισσα του πάγου φτάνει.</desc>
     <category lang="el">Σειρά</category>
   </programme>
-  <programme start="20261025025500 +0300" stop="20261025032500 +0300" channel="XTV100001075">
+  <programme start="20261025025500 +0300" stop="20261025032000 +0300" channel="XTV100001075">
     <title lang="el">Φινέας και Φερμπ Κ5 Ε149</title>
     <desc lang="el">Τα παιδιά βλέπουν εφιάλτες. Ο Ντουφ γίνεται ήλιος.</desc>
+    <category lang="el">Παιδική</category>
+  </programme>
+  <programme start="20261025032000 +0300" stop="20261025034000 +0300" channel="XTV100001075">
+    <title lang="el">Φινέας και Φερμπ Κ5 Ε150</title>
+    <desc lang="el">Ο Μονόγραμμος και ο Ντουφ παίζουν ποδόσφαιρο.</desc>
     <category lang="el">Παιδική</category>
   </programme>
   <programme start="20261025034000 +0300" stop="20261025030500 +0200" channel="XTV100001075">
@@ -21361,14 +21366,9 @@
     <desc lang="el">Μπιούφορντ παρακολουθεί μια εκπομπή επιστημονικής φαντασίας.</desc>
     <category lang="el">Παιδική</category>
   </programme>
-  <programme start="20261025030500 +0200" stop="20261025032500 +0200" channel="XTV100001075">
+  <programme start="20261025030500 +0200" stop="20261025034500 +0200" channel="XTV100001075">
     <title lang="el">Χάμστερ &amp; Γκρέτελ Κ2 Ε44</title>
     <desc lang="el">Ο Κέβιν γίνεται γιατρός. Η Γκρέτελ πουλάει παντελόνια.</desc>
-    <category lang="el">Σειρά</category>
-  </programme>
-  <programme start="20261025032500 +0200" stop="20261025034500 +0200" channel="XTV100001075">
-    <title lang="el">Χάμστερ &amp; Γκρέτελ Κ2 Ε45</title>
-    <desc lang="el">Ο Νορντλ καλλιεργεί. Η Γκρέτελ παίρνει νέα ακουστικά.</desc>
     <category lang="el">Σειρά</category>
   </programme>
   <programme start="20261025034500 +0200" stop="20261025040500 +0200" channel="XTV100001075">

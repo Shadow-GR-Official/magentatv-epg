@@ -369,10 +369,20 @@
     "name": "Novasports Start HD",
     "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novastart-normal.png"
   },
+  "XTV900000010": {
+    "id": "XTV900000010",
+    "name": "Novasports1 League HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaleague1_normal_v2.png"
+  },
   "XTV600000601": {
     "id": "XTV600000601",
     "name": "Novasports1HD",
     "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova1-normal.png"
+  },
+  "XTV900000011": {
+    "id": "XTV900000011",
+    "name": "Novasports2 League HD",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaleague2_normal_v2.png"
   },
   "XTV600000602": {
     "id": "XTV600000602",

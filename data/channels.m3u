@@ -147,8 +147,12 @@ http://127.0.0.1/XTV600000614
 http://127.0.0.1/XTV600000609
 #EXTINF:-1 tvg-id="XTV600000608" tvg-name="Novasports Start HD" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novastart-normal.png",Novasports Start HD
 http://127.0.0.1/XTV600000608
+#EXTINF:-1 tvg-id="XTV900000010" tvg-name="Novasports1 League HD" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaleague1_normal_v2.png",Novasports1 League HD
+http://127.0.0.1/XTV900000010
 #EXTINF:-1 tvg-id="XTV600000601" tvg-name="Novasports1HD" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova1-normal.png",Novasports1HD
 http://127.0.0.1/XTV600000601
+#EXTINF:-1 tvg-id="XTV900000011" tvg-name="Novasports2 League HD" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/novaleague2_normal_v2.png",Novasports2 League HD
+http://127.0.0.1/XTV900000011
 #EXTINF:-1 tvg-id="XTV600000602" tvg-name="Novasports2HD" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova2-normal.png",Novasports2HD
 http://127.0.0.1/XTV600000602
 #EXTINF:-1 tvg-id="XTV600000603" tvg-name="Novasports3HD" tvg-logo="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nova3-normal.png",Novasports3HD

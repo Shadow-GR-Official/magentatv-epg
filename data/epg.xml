@@ -160,10 +160,6 @@
     <display-name>MEZZO LIVE HD</display-name>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/mezzolivehd_new-normal.png" />
   </channel>
-  <channel id="XTV100001965">
-    <display-name>Magenta Cinema 007</display-name>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/magenta_cinema007_normal.png" />
-  </channel>
   <channel id="XTV100001106">
     <display-name>Magenta Cinema 1</display-name>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/magenta_cinema1_normal.png" />
@@ -62140,256 +62136,6 @@
     <desc lang="el">Μότσαρτ, Κοντσέρτο για βιολί αρ. 3. Ο Γκρέγκορι Ας διευθύνει την Καμεράτα Σάλτσμπουργκ και τη Μπομσόρι Κιμ (βιολί) στο Κοντσέρτο για βιολί αρ. 3 του Μότσαρτ. Από το Μουσικό Φεστιβάλ Ράινγκαου 2021.</desc>
     <category lang="el">Μουσική</category>
   </programme>
-  <programme start="20261107000000 +0200" stop="20261107040000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261107040000 +0200" stop="20261107060000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261107060000 +0200" stop="20261107100000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261107100000 +0200" stop="20261107140000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261107140000 +0200" stop="20261107180000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261107180000 +0200" stop="20261107220000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261107220000 +0200" stop="20261108000000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261108000000 +0200" stop="20261108040000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261108040000 +0200" stop="20261108060000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261108060000 +0200" stop="20261108100000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261108100000 +0200" stop="20261108140000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261108140000 +0200" stop="20261108180000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261108180000 +0200" stop="20261108220000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261108220000 +0200" stop="20261109000000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261109000000 +0200" stop="20261109040000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261109040000 +0200" stop="20261109060000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261109060000 +0200" stop="20261109100000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261109100000 +0200" stop="20261109140000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261109140000 +0200" stop="20261109180000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261109180000 +0200" stop="20261109220000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261109220000 +0200" stop="20261110000000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261110000000 +0200" stop="20261110040000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261110040000 +0200" stop="20261110060000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261110060000 +0200" stop="20261110100000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261110100000 +0200" stop="20261110140000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261110140000 +0200" stop="20261110180000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261110180000 +0200" stop="20261110220000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261110220000 +0200" stop="20261111000000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261111000000 +0200" stop="20261111040000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261111040000 +0200" stop="20261111060000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261111060000 +0200" stop="20261111100000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261111100000 +0200" stop="20261111140000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261111140000 +0200" stop="20261111180000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261111180000 +0200" stop="20261111220000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261111220000 +0200" stop="20261112000000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261112000000 +0200" stop="20261112040000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261112040000 +0200" stop="20261112060000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261112060000 +0200" stop="20261112100000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261112100000 +0200" stop="20261112140000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261112140000 +0200" stop="20261112180000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261112180000 +0200" stop="20261112220000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261112220000 +0200" stop="20261113000000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261113000000 +0200" stop="20261113040000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261113040000 +0200" stop="20261113060000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261113060000 +0200" stop="20261113100000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261113100000 +0200" stop="20261113140000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261113140000 +0200" stop="20261113180000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261113180000 +0200" stop="20261113220000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261113220000 +0200" stop="20261114000000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
-  <programme start="20261114000000 +0200" stop="20261114040000 +0200" channel="XTV100001965">
-    <title lang="el">Magenta Cinema 007</title>
-    <desc lang="el">60 χρόνια. Ένας θρύλος. Ένα κανάλι. Από 01/10 έως και 31/10, το Magenta Cinema 007 έφερε στην οθόνη σας ολόκληρη την κινηματογραφική ιστορία του θρυλικού Τζέιμς Μποντ. Αποκλειστικά στη MagentaTV.</desc>
-    <category lang="el">Promo Card</category>
-  </programme>
   <programme start="20261107013000 +0200" stop="20261107022000 +0200" channel="XTV100001106">
     <title lang="el">Watch Next Κ5 Ε6</title>
     <desc lang="el">Η Κάτια Δανδουλάκη, η 'κυρία με Κ κεφαλαίο' του ελληνικού θεάτρου, συζητά με τον Θοδωρή Κουτσογιαννόπουλο για τη θεατρική πορεία της και τον 'Αόρατο Επισκέπτη', ενώ παράλληλα θυμάται αξέχαστες στιγμές από τις ταινίες της. Παραγωγή: COSMOTE TV. (45')</desc>
@@ -72181,13 +71927,13 @@
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20261108133000 +0200" stop="20261108160000 +0200" channel="XTV100001360">
-    <title lang="el">Τένις: ATP Masters 1000 2026 (Ζ)</title>
-    <desc lang="el">Παρίσι (Τελικός Διπλού). To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
+    <title lang="el">Τένις: Κουέντιν Άλις / Πιέρ Ουγκ Ερμπέρ - Κρίστιαν Χάρισον / Νιλ Σκούπσκι (Ζ)</title>
+    <desc lang="el">ATP Masters 1000 2026. Παρίσι (Τελικός Διπλού). To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20261108160000 +0200" stop="20261108183000 +0200" channel="XTV100001360">
-    <title lang="el">Τένις: ATP Masters 1000 2026 (Ζ)</title>
-    <desc lang="el">Παρίσι (Τελικός Μονού). To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
+    <title lang="el">Τένις: Μπεν Σέλτον - Κάρλος Αλκαράθ (Ζ)</title>
+    <desc lang="el">ATP Masters 1000 2026. Παρίσι (Τελικός Μονού). To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20261108183000 +0200" stop="20261108190000 +0200" channel="XTV100001360">
@@ -72196,13 +71942,13 @@
     <category lang="el">Πάντελ</category>
   </programme>
   <programme start="20261108190000 +0200" stop="20261108213000 +0200" channel="XTV100001360">
-    <title lang="el">Τένις: ATP Masters 1000 2026</title>
-    <desc lang="el">Παρίσι (Τελικός Διπλού). To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
+    <title lang="el">Τένις: Κουέντιν Άλις / Πιέρ Ουγκ Ερμπέρ - Κρίστιαν Χάρισον / Νιλ Σκούπσκι</title>
+    <desc lang="el">ATP Masters 1000 2026. Παρίσι (Τελικός Διπλού). To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20261108213000 +0200" stop="20261109000000 +0200" channel="XTV100001360">
-    <title lang="el">Τένις: ATP Masters 1000 2026</title>
-    <desc lang="el">Παρίσι (Τελικός Μονού). To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
+    <title lang="el">Τένις: Μπεν Σέλτον - Κάρλος Αλκαράθ</title>
+    <desc lang="el">ATP Masters 1000 2026. Παρίσι (Τελικός Μονού). To ATP Masters είναι μια σειρά από 9 τουρνουά τένις, στα οποία συμμετέχουν οι κορυφαίοι της κατάταξης στο ATP Tour. Οι διοργανώσεις διεξάγονται στην Ευρώπη, τη Βόρεια Αμερική και την Ασία. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20261109000000 +0200" stop="20261109030000 +0200" channel="XTV100001360">
@@ -74565,12 +74311,12 @@
     <desc lang="el">Sky Bet EFL Championship 2026-27. 15η Αγωνιστική.  Περιγραφή: Γιώργος Θαναηλάκης.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20261108220000 +0200" stop="20261109000000 +0200" channel="XTV900000002">
+  <programme start="20261108220000 +0200" stop="20261108235000 +0200" channel="XTV900000002">
     <title lang="el">Ποδόσφαιρο: Ρεάλ Σοσιεδάδ - Λιόν</title>
     <desc lang="el">UEFA Europa League 2026-27. League Phase, 4η Αγωνιστική.  Περιγραφή: Κώστας Γιαλιτάκης.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20261109000000 +0200" stop="20261109020000 +0200" channel="XTV900000002">
+  <programme start="20261108235000 +0200" stop="20261109015000 +0200" channel="XTV900000002">
     <title lang="el">Ποδόσφαιρο: Τζένοα - Μίλαν</title>
     <desc lang="el">Serie A 2026-27. 11η Αγωνιστική.  Περιγραφή: Μάνος Σπανόπουλος.</desc>
     <category lang="el">Ποδόσφαιρο</category>

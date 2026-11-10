@@ -59373,7 +59373,7 @@
   </programme>
   <programme start="20261113003000 +0200" stop="20261113014000 +0200" channel="XTV100003227">
     <title lang="el">Mega Stories</title>
-    <desc lang="el">Είμαστε οι ιστορίες μας: Αληθινές, τρυφερές, σκληρές, μεγαλειώδεις. Η Δώρα Αναγνωστοπούλου και η ομάδα της δίνουν βήμα σε συνανθρώπους μας που έχουν να μας διηγηθούν κάτι. Αυτό το 'κάτι' μας αφορά. Μας θυμίζει, πολλές φορές, τα δικά μας βιώματα.</desc>
+    <desc lang="el">Επεισόδιο: Τεχνητή Νοημοσύνη. Το MEGA Stories και η Δώρα Αναγνωστοπούλου συναντούν τους ανθρώπους που κατασκευάζουν γλωσσικά μοντέλα, εκπαιδεύουν ρομπότ, δημιουργούν έργα με τη βοήθεια της ΑΙ και αναζητούν τρόπους να διακρίνουν το αληθινό από το κατασκευασμένο.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20261113014000 +0200" stop="20261113023000 +0200" channel="XTV100003227">
@@ -64868,7 +64868,7 @@
   </programme>
   <programme start="20261112220000 +0200" stop="20261112230000 +0200" channel="XTV100001622">
     <title lang="el">Best Medicine Κ2 Ε7</title>
-    <desc lang="el">ΠΡΕΜΙΕΡΑ. Ένας χειρουργός εγκαταλείπει τη λαμπρή καριέρα του στη Βοστώνη για να γίνει γενικός γιατρός στο γραφικό ψαροχώρι όπου περνούσε τα παιδικά του καλοκαίρια. Μα η αγενής συμπεριφορά του δεν αργεί να τον αποξενώσει από τους ντόπιους. (45')</desc>
+    <desc lang="el">ΠΡΕΜΙΕΡΑ. Κατά τη διάρκεια μιας ιστορικής αναπαράστασης, οι κάτοικοι αρχίζουν να εκδηλώνουν αλλόκοτη συμπεριφορά. Παράλληλα, ο Μάρτιν επηρεάζεται από τη νέα σχέση της Λουίζα με τον Πάρκερ, ενώ η Ελέιν και ο Αλ ανησυχούν για τον Μπερτ. (45')</desc>
     <category lang="el">Δραματική Κομεντί</category>
   </programme>
   <programme start="20261112230000 +0200" stop="20261113000000 +0200" channel="XTV100001622">
@@ -64898,7 +64898,7 @@
   </programme>
   <programme start="20261113032000 +0200" stop="20261113041000 +0200" channel="XTV100001622">
     <title lang="el">Best Medicine Κ2 Ε7</title>
-    <desc lang="el">Ένας χειρουργός εγκαταλείπει τη λαμπρή καριέρα του στη Βοστώνη για να γίνει γενικός γιατρός στο γραφικό ψαροχώρι όπου περνούσε τα παιδικά του καλοκαίρια. Μα η αγενής συμπεριφορά του δεν αργεί να τον αποξενώσει από τους ντόπιους. (45')</desc>
+    <desc lang="el">Κατά τη διάρκεια μιας ιστορικής αναπαράστασης, οι κάτοικοι αρχίζουν να εκδηλώνουν αλλόκοτη συμπεριφορά. Παράλληλα, ο Μάρτιν επηρεάζεται από τη νέα σχέση της Λουίζα με τον Πάρκερ, ενώ η Ελέιν και ο Αλ ανησυχούν για τον Μπερτ. (45')</desc>
     <category lang="el">Δραματική Κομεντί</category>
   </programme>
   <programme start="20261113041000 +0200" stop="20261113051000 +0200" channel="XTV100001622">
@@ -68481,12 +68481,12 @@
     <desc lang="el">NBA 2026-27 - Κανονική Διάρκεια. Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261110143500 +0200" stop="20261110154000 +0200" channel="XTV100001109">
+  <programme start="20261110143500 +0200" stop="20261110154500 +0200" channel="XTV100001109">
     <title lang="el">Pick n' Roll</title>
     <desc lang="el">Πλούσια θεματολογία, ενδιαφέρουσες συνεντεύξεις και σούπερ θέαμα κάθε εβδομάδα στην μπασκετική εκπομπή Pick n' Roll.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20261110154000 +0200" stop="20261110181000 +0200" channel="XTV100001109">
+  <programme start="20261110154500 +0200" stop="20261110181000 +0200" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Σικάγο Μπουλς - Φιλαδέλφεια 76ερς</title>
     <desc lang="el">NBA 2026-27 - Κανονική Διάρκεια. Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
@@ -68536,12 +68536,12 @@
     <desc lang="el">FIBA Basketball Champions League 2026-27. Φάση Ομίλων, 6η Αγωνιστική.  Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261111101500 +0200" stop="20261111111500 +0200" channel="XTV100001109">
+  <programme start="20261111101500 +0200" stop="20261111111000 +0200" channel="XTV100001109">
     <title lang="el">NBA Specials</title>
     <desc lang="el">NBA Shot Clock: All-Star History Vol. 1. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20261111111500 +0200" stop="20261111122000 +0200" channel="XTV100001109">
+  <programme start="20261111111000 +0200" stop="20261111122000 +0200" channel="XTV100001109">
     <title lang="el">Pick n' Roll</title>
     <desc lang="el">Πλούσια θεματολογία, ενδιαφέρουσες συνεντεύξεις και σούπερ θέαμα κάθε εβδομάδα στην μπασκετική εκπομπή Pick n' Roll.</desc>
     <category lang="el">Εκπομπή</category>
@@ -68586,55 +68586,50 @@
     <desc lang="el">NBA 2026-27 - Κανονική Διάρκεια. Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261112050000 +0200" stop="20261112060000 +0200" channel="XTV100001109">
+  <programme start="20261112050000 +0200" stop="20261112061000 +0200" channel="XTV100001109">
     <title lang="el">Pick n' Roll</title>
     <desc lang="el">Πλούσια θεματολογία, ενδιαφέρουσες συνεντεύξεις και σούπερ θέαμα κάθε εβδομάδα στην μπασκετική εκπομπή Pick n' Roll.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20261112060000 +0200" stop="20261112075000 +0200" channel="XTV100001109">
+  <programme start="20261112061000 +0200" stop="20261112075000 +0200" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Μπούρσασπορ - Φενέρμπαχτσε</title>
     <desc lang="el">Turkish Basketball Super League 2026-27. 7η Αγωνιστική.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261112075000 +0200" stop="20261112085500 +0200" channel="XTV100001109">
+  <programme start="20261112075000 +0200" stop="20261112090500 +0200" channel="XTV100001109">
     <title lang="el">Pick n' Roll</title>
     <desc lang="el">Πλούσια θεματολογία, ενδιαφέρουσες συνεντεύξεις και σούπερ θέαμα κάθε εβδομάδα στην μπασκετική εκπομπή Pick n' Roll.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20261112085500 +0200" stop="20261112110500 +0200" channel="XTV100001109">
+  <programme start="20261112090500 +0200" stop="20261112111500 +0200" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Αναντολού Εφές - Τόφας</title>
     <desc lang="el">Turkish Basketball Super League 2026-27. 7η Αγωνιστική.  Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261112110500 +0200" stop="20261112113000 +0200" channel="XTV100001109">
+  <programme start="20261112111500 +0200" stop="20261112114500 +0200" channel="XTV100001109">
     <title lang="el">Ισπανικό Πρωτάθλημα - 5η Περίοδος 2026-27 Ε7</title>
     <desc lang="el">Δείτε τα καλύτερα στιγμιότυπα της 5ης περιόδου του Ισπανικού Πρωταθλήματος μπάσκετ.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20261112113000 +0200" stop="20261112140000 +0200" channel="XTV100001109">
+  <programme start="20261112114500 +0200" stop="20261112141500 +0200" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Νιου Γιορκ Νικς - Κλίβελαντ Καβαλίερς</title>
     <desc lang="el">NBA 2026-27 - Κανονική Διάρκεια. Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261112140000 +0200" stop="20261112163000 +0200" channel="XTV100001109">
+  <programme start="20261112141500 +0200" stop="20261112164500 +0200" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Χιούστον Ρόκετς - Γκόλντεν Στέιτ Ουόριορς</title>
     <desc lang="el">NBA 2026-27 - Κανονική Διάρκεια. Περιγραφή: Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261112163000 +0200" stop="20261112190000 +0200" channel="XTV100001109">
+  <programme start="20261112164500 +0200" stop="20261112191500 +0200" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Φιλαδέλφεια 76ερς - Μπόστον Σέλτικς</title>
     <desc lang="el">NBA 2026-27 - Κανονική Διάρκεια. Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261112190000 +0200" stop="20261112200500 +0200" channel="XTV100001109">
+  <programme start="20261112191500 +0200" stop="20261112203000 +0200" channel="XTV100001109">
     <title lang="el">Pick n' Roll</title>
     <desc lang="el">Πλούσια θεματολογία, ενδιαφέρουσες συνεντεύξεις και σούπερ θέαμα κάθε εβδομάδα στην μπασκετική εκπομπή Pick n' Roll.</desc>
     <category lang="el">Εκπομπή</category>
-  </programme>
-  <programme start="20261112200500 +0200" stop="20261112203000 +0200" channel="XTV100001109">
-    <title lang="el">Ισπανικό Πρωτάθλημα - 5η Περίοδος 2026-27 Ε7</title>
-    <desc lang="el">Δείτε τα καλύτερα στιγμιότυπα της 5ης περιόδου του Ισπανικού Πρωταθλήματος μπάσκετ.</desc>
-    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20261112203000 +0200" stop="20261112210000 +0200" channel="XTV100001109">
     <title lang="el">NBA Specials</title>
@@ -68666,52 +68661,52 @@
     <desc lang="el">NBA Shot Clock: 50 point games from 2025-2026 - Part 3. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20261113060000 +0200" stop="20261113081500 +0200" channel="XTV100001109">
+  <programme start="20261113060000 +0200" stop="20261113081000 +0200" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Περιστέρι - Βαρέζε</title>
     <desc lang="el">FIBA Basketball Champions League 2026-27. Φάση Ομίλων, 6η Αγωνιστική.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261113081500 +0200" stop="20261113103000 +0200" channel="XTV100001109">
+  <programme start="20261113081000 +0200" stop="20261113102000 +0200" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Μπιλμπάο - Άλμπα Βερολίνου</title>
     <desc lang="el">FIBA Basketball Champions League 2026-27. Φάση Ομίλων, 6η Αγωνιστική.  Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261113103000 +0200" stop="20261113110000 +0200" channel="XTV100001109">
+  <programme start="20261113102000 +0200" stop="20261113105000 +0200" channel="XTV100001109">
     <title lang="el">NBA Specials</title>
     <desc lang="el">NBA Shot Clock: 50 point games from 2025-2026 - Part 1. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20261113110000 +0200" stop="20261113113000 +0200" channel="XTV100001109">
+  <programme start="20261113105000 +0200" stop="20261113112000 +0200" channel="XTV100001109">
     <title lang="el">NBA Specials</title>
     <desc lang="el">High Tops: Larry Bird's Best Plays. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20261113113000 +0200" stop="20261113140000 +0200" channel="XTV100001109">
+  <programme start="20261113112000 +0200" stop="20261113135000 +0200" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Φιλαδέλφεια 76ερς - Τορόντο Ράπτορς</title>
     <desc lang="el">NBA 2026-27 - Κανονική Διάρκεια. Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261113140000 +0200" stop="20261113142500 +0200" channel="XTV100001109">
+  <programme start="20261113135000 +0200" stop="20261113141000 +0200" channel="XTV100001109">
     <title lang="el">Ισπανικό Πρωτάθλημα - 5η Περίοδος 2026-27 Ε7</title>
     <desc lang="el">Δείτε τα καλύτερα στιγμιότυπα της 5ης περιόδου του Ισπανικού Πρωταθλήματος μπάσκετ.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20261113142500 +0200" stop="20261113145500 +0200" channel="XTV100001109">
+  <programme start="20261113141000 +0200" stop="20261113144000 +0200" channel="XTV100001109">
     <title lang="el">NBA Specials</title>
     <desc lang="el">NBA Shot Clock: 50 point games from 2025-2026 - Part 3. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20261113145500 +0200" stop="20261113172500 +0200" channel="XTV100001109">
+  <programme start="20261113144000 +0200" stop="20261113171000 +0200" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Νιου Γιορκ Νικς - Κλίβελαντ Καβαλίερς</title>
     <desc lang="el">NBA 2026-27 - Κανονική Διάρκεια. Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261113172500 +0200" stop="20261113195500 +0200" channel="XTV100001109">
+  <programme start="20261113171000 +0200" stop="20261113194000 +0200" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Χιούστον Ρόκετς - Γκόλντεν Στέιτ Ουόριορς</title>
     <desc lang="el">NBA 2026-27 - Κανονική Διάρκεια. Περιγραφή: Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261113195500 +0200" stop="20261113205500 +0200" channel="XTV100001109">
+  <programme start="20261113194000 +0200" stop="20261113205500 +0200" channel="XTV100001109">
     <title lang="el">Pick n' Roll</title>
     <desc lang="el">Πλούσια θεματολογία, ενδιαφέρουσες συνεντεύξεις και σούπερ θέαμα κάθε εβδομάδα στην μπασκετική εκπομπή Pick n' Roll.</desc>
     <category lang="el">Εκπομπή</category>
@@ -68756,62 +68751,57 @@
     <desc lang="el">ACB Liga Endesa 2026-27. 7η Αγωνιστική.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261114121000 +0200" stop="20261114123000 +0200" channel="XTV100001109">
-    <title lang="el">Ισπανικό Πρωτάθλημα - 5η Περίοδος 2026-27 Ε7</title>
-    <desc lang="el">Δείτε τα καλύτερα στιγμιότυπα της 5ης περιόδου του Ισπανικού Πρωταθλήματος μπάσκετ.</desc>
-    <category lang="el">Στιγμιότυπα</category>
-  </programme>
-  <programme start="20261114123000 +0200" stop="20261114143000 +0200" channel="XTV100001109">
+  <programme start="20261114121000 +0200" stop="20261114141000 +0200" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Ρεάλ Μαδρίτης - Μούρθια</title>
     <desc lang="el">ACB Liga Endesa 2026-27. 7η Αγωνιστική.  Περιγραφή: Άρης Μπάρκας.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261114143000 +0200" stop="20261114153000 +0200" channel="XTV100001109">
+  <programme start="20261114141000 +0200" stop="20261114152500 +0200" channel="XTV100001109">
     <title lang="el">Pick n' Roll</title>
     <desc lang="el">Πλούσια θεματολογία, ενδιαφέρουσες συνεντεύξεις και σούπερ θέαμα κάθε εβδομάδα στην μπασκετική εκπομπή Pick n' Roll.</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20261114153000 +0200" stop="20261114155500 +0200" channel="XTV100001109">
+  <programme start="20261114152500 +0200" stop="20261114155000 +0200" channel="XTV100001109">
     <title lang="el">Ισπανικό Πρωτάθλημα - 5η Περίοδος 2026-27 Ε7</title>
     <desc lang="el">Δείτε τα καλύτερα στιγμιότυπα της 5ης περιόδου του Ισπανικού Πρωταθλήματος μπάσκετ.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20261114155500 +0200" stop="20261114163000 +0200" channel="XTV100001109">
+  <programme start="20261114155000 +0200" stop="20261114162500 +0200" channel="XTV100001109">
     <title lang="el">NBA Action 2026-27 Ε3604</title>
     <desc lang="el">H αθλητική εκπομπή μεταφέρει στους Έλληνες φιλάθλους όλα τα νέα για το μαγικό κόσμο του ΝΒΑ, με συνεντεύξεις και αφιερώματα.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261114163000 +0200" stop="20261114190000 +0200" channel="XTV100001109">
+  <programme start="20261114162500 +0200" stop="20261114185500 +0200" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Φιλαδέλφεια 76ερς - Τορόντο Ράπτορς</title>
     <desc lang="el">NBA 2026-27 - Κανονική Διάρκεια. Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261114190000 +0200" stop="20261114193500 +0200" channel="XTV100001109">
+  <programme start="20261114185500 +0200" stop="20261114193000 +0200" channel="XTV100001109">
     <title lang="el">NBA On Fire 2026-27 Ε3</title>
     <desc lang="el">Το NBA On Fire σε βάζει στον μαγικό κόσμο του NBA.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261114193500 +0200" stop="20261114214500 +0200" channel="XTV100001109">
+  <programme start="20261114193000 +0200" stop="20261114214000 +0200" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Περιστέρι - Βαρέζε</title>
     <desc lang="el">FIBA Basketball Champions League 2026-27. Φάση Ομίλων, 6η Αγωνιστική.  Περιγραφή: Ρήγας Δάρδαλης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261114214500 +0200" stop="20261115000000 +0200" channel="XTV100001109">
+  <programme start="20261114214000 +0200" stop="20261114235500 +0200" channel="XTV100001109">
     <title lang="el">Μπάσκετ: Μπιλμπάο - Άλμπα Βερολίνου</title>
     <desc lang="el">FIBA Basketball Champions League 2026-27. Φάση Ομίλων, 6η Αγωνιστική.  Περιγραφή: Νίκος Κουλούρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261115000000 +0200" stop="20261115003500 +0200" channel="XTV100001109">
+  <programme start="20261114235500 +0200" stop="20261115003000 +0200" channel="XTV100001109">
     <title lang="el">NBA On Fire 2026-27 Ε3</title>
     <desc lang="el">Το NBA On Fire σε βάζει στον μαγικό κόσμο του NBA.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261115003500 +0200" stop="20261115015500 +0200" channel="XTV100001109">
+  <programme start="20261115003000 +0200" stop="20261115015000 +0200" channel="XTV100001109">
     <title lang="el">NBA Specials</title>
     <desc lang="el">NBA Shot Clock: Best of Eastern Conference Champions. Στιγμιότυπα και ντοκιμαντέρ από το NBA.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20261115015500 +0200" stop="20261115030000 +0200" channel="XTV100001109">
+  <programme start="20261115015000 +0200" stop="20261115030000 +0200" channel="XTV100001109">
     <title lang="el">Pick n' Roll</title>
     <desc lang="el">Πλούσια θεματολογία, ενδιαφέρουσες συνεντεύξεις και σούπερ θέαμα κάθε εβδομάδα στην μπασκετική εκπομπή Pick n' Roll.</desc>
     <category lang="el">Εκπομπή</category>
@@ -69931,32 +69921,32 @@
     <desc lang="el">Ολλανδία (1ος Αγώνας). H πρώτη παγκόσμια σειρά αγώνων που είναι αφιερωμένη στις μοτοσικλέτες Harley-Davidson. Περιγραφή: Δημήτρης Διατσίδης.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261111064500 +0200" stop="20261111073500 +0200" channel="XTV100001063">
+  <programme start="20261111064500 +0200" stop="20261111073000 +0200" channel="XTV100001063">
     <title lang="el">Harley-Davidson Bagger World Cup 2026</title>
     <desc lang="el">Ολλανδία (2ος Αγώνας). H πρώτη παγκόσμια σειρά αγώνων που είναι αφιερωμένη στις μοτοσικλέτες Harley-Davidson. Περιγραφή: Δημήτρης Διατσίδης.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261111073500 +0200" stop="20261111084000 +0200" channel="XTV100001063">
+  <programme start="20261111073000 +0200" stop="20261111083000 +0200" channel="XTV100001063">
     <title lang="el">Red Bull MotoGP Rookies Cup 2026</title>
     <desc lang="el">Ολλανδία, Άσσεν -1ος Αγώνας. Το 2026 είναι η 20ή σεζόν του Rookies Cup. Ξεκινώντας από την Χέρεζ τον Απρίλιο, η σειρά μεταφέρεται στα κλασικά Grand Prix της Ευρώπης και ολοκληρώνεται στο Spielberg τον Σεπτέμβριο. Περιγραφή: Θανάσης Κελάφης.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261111084000 +0200" stop="20261111094500 +0200" channel="XTV100001063">
+  <programme start="20261111083000 +0200" stop="20261111093500 +0200" channel="XTV100001063">
     <title lang="el">Red Bull MotoGP Rookies Cup 2026</title>
     <desc lang="el">Ολλανδία, Άσσεν - 2ος Αγώνας. Το 2026 είναι η 20ή σεζόν του Rookies Cup. Ξεκινώντας από την Χέρεζ τον Απρίλιο, η σειρά μεταφέρεται στα κλασικά Grand Prix της Ευρώπης και ολοκληρώνεται στο Spielberg τον Σεπτέμβριο. Περιγραφή: Θανάσης Κελάφης.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261111094500 +0200" stop="20261111112500 +0200" channel="XTV100001063">
+  <programme start="20261111093500 +0200" stop="20261111111500 +0200" channel="XTV100001063">
     <title lang="el">DTM</title>
     <desc lang="el">Γερμανία, Χόκενχαϊμ - 1ος Αγώνας. Το Γερμανικό Πρωτάθλημα Τουρισμού φιλοξενεί τροποποιημένα αυτοκίνητα που κυκλοφορούν στον δρόμο, αποτελείται από 16 αγώνες σε 8 αγωνιστικά διήμερα. Η διοργάνωση έχει ως βάση της τη Γερμανία. Περιγραφή: Χρήστος Κυριαζής.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261111112500 +0200" stop="20261111130500 +0200" channel="XTV100001063">
+  <programme start="20261111111500 +0200" stop="20261111125500 +0200" channel="XTV100001063">
     <title lang="el">DTM 2026</title>
     <desc lang="el">Γερμανία, Χόκενχαϊμ - 2ος Αγώνας. Το Γερμανικό Πρωτάθλημα Τουρισμού φιλοξενεί τροποποιημένα αυτοκίνητα που κυκλοφορούν στον δρόμο. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261111130500 +0200" stop="20261111140500 +0200" channel="XTV100001063">
+  <programme start="20261111125500 +0200" stop="20261111140500 +0200" channel="XTV100001063">
     <title lang="el">Grand Prix Show 2026</title>
     <desc lang="el">Η εκπομπή για όλες τις εξελίξεις στα πρωταθλήματα μηχανοκίνητου αθλητισμού που φιλοξενεί η MagentaTV (MotoGP, WRC, ERC, FIA WORLD RALLYCROSS, DTM).</desc>
     <category lang="el">Εκπομπή</category>
@@ -69971,22 +69961,22 @@
     <desc lang="el">World Cup (3η Ημέρα). Το FIA Extreme H World Cup είναι το πρώτο διεθνές πρωτάθλημα off-road στο οποίο τα εκτός δρόμου αγωνιστικά τροφοδοτούνται αποκλειστικά με υδρογόνο. Περιγραφή: Χρήστος Κυριαζής.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261111171000 +0200" stop="20261111180000 +0200" channel="XTV100001063">
+  <programme start="20261111171000 +0200" stop="20261111180500 +0200" channel="XTV100001063">
     <title lang="el">ERC 2026</title>
     <desc lang="el">Πορτογαλία, SS2 Cabeceiras de Basto 1. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261111180000 +0200" stop="20261111185500 +0200" channel="XTV100001063">
+  <programme start="20261111180500 +0200" stop="20261111191000 +0200" channel="XTV100001063">
     <title lang="el">ERC 2026</title>
     <desc lang="el">Πορτογαλία, SS3 Ribeira de Pena 1. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261111185500 +0200" stop="20261111194000 +0200" channel="XTV100001063">
+  <programme start="20261111191000 +0200" stop="20261111195000 +0200" channel="XTV100001063">
     <title lang="el">ERC 2026</title>
     <desc lang="el">Πορτογαλία, SS4 Boticas - Vale do Tamega 1. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261111194000 +0200" stop="20261111202500 +0200" channel="XTV100001063">
+  <programme start="20261111195000 +0200" stop="20261111202500 +0200" channel="XTV100001063">
     <title lang="el">ERC 2026</title>
     <desc lang="el">Πορτογαλία, SS16 Sta Quiteria 2. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <category lang="el">Μηχανοκίνητα</category>
@@ -70006,20 +69996,15 @@
     <desc lang="el">Γκραν Πρι Κατάρ. Το MotoGP, το παγκόσμιο πρωτάθλημα μοτοσυκλέτας, προσφέρει πολλές συγκινήσεις. Παρακολουθήστε μια συμπυκνωμένη εκδοχή όσων συνέβησαν σε μια από τις κούρσες του 2025.</desc>
     <category lang="el">Στιγμιότυπα</category>
   </programme>
-  <programme start="20261111230000 +0200" stop="20261112001500 +0200" channel="XTV100001063">
+  <programme start="20261111230000 +0200" stop="20261112002000 +0200" channel="XTV100001063">
     <title lang="el">Motorsports: MotoGP 2026</title>
     <desc lang="el">Γκραν Πρι Κατάρ (Tissot Sprint). Το Παγκόσμιο Πρωτάθλημα FIM MotoGP περιλαμβάνει 11 ομάδες και συνολικά 22 αναβάτες, που διεκδικούν τον τίτλο μέσα από 22 Γκραν Πρι. Περιγραφή: Δημήτρης Διατσίδης.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261112001500 +0200" stop="20261112012000 +0200" channel="XTV100001063">
+  <programme start="20261112002000 +0200" stop="20261112013500 +0200" channel="XTV100001063">
     <title lang="el">Grand Prix Show 2026</title>
     <desc lang="el">Η εκπομπή για όλες τις εξελίξεις στα πρωταθλήματα μηχανοκίνητου αθλητισμού που φιλοξενεί η MagentaTV (MotoGP, WRC, ERC, FIA WORLD RALLYCROSS, DTM).</desc>
     <category lang="el">Εκπομπή</category>
-  </programme>
-  <programme start="20261112012000 +0200" stop="20261112013500 +0200" channel="XTV100001063">
-    <title lang="el">Αθλητικά Στιγμιότυπα</title>
-    <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
-    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20261112013500 +0200" stop="20261112023500 +0200" channel="XTV100001063">
     <title lang="el">WRC</title>
@@ -70091,45 +70076,45 @@
     <desc lang="el">Γερμανία, Χόκενχαϊμ - 2ος Αγώνας. Το Γερμανικό Πρωτάθλημα Τουρισμού φιλοξενεί τροποποιημένα αυτοκίνητα που κυκλοφορούν στον δρόμο. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261112185500 +0200" stop="20261112195500 +0200" channel="XTV100001063">
+  <programme start="20261112185500 +0200" stop="20261112201000 +0200" channel="XTV100001063">
     <title lang="el">Grand Prix Show 2026</title>
     <desc lang="el">Η εκπομπή για όλες τις εξελίξεις στα πρωταθλήματα μηχανοκίνητου αθλητισμού που φιλοξενεί η MagentaTV (MotoGP, WRC, ERC, FIA WORLD RALLYCROSS, DTM).</desc>
     <category lang="el">Εκπομπή</category>
   </programme>
-  <programme start="20261112195500 +0200" stop="20261112205500 +0200" channel="XTV100001063">
+  <programme start="20261112201000 +0200" stop="20261112211000 +0200" channel="XTV100001063">
     <title lang="el">WRC 2026</title>
     <desc lang="el">Ιταλία, SS15 Sassari - Argentiera 1. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2026. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261112205500 +0200" stop="20261112215000 +0200" channel="XTV100001063">
+  <programme start="20261112211000 +0200" stop="20261112220500 +0200" channel="XTV100001063">
     <title lang="el">WRC 2026</title>
     <desc lang="el">Ιταλία, SS16 Osilo - Tergu 2. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2026. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261112215000 +0200" stop="20261112232000 +0200" channel="XTV100001063">
+  <programme start="20261112220500 +0200" stop="20261112233500 +0200" channel="XTV100001063">
     <title lang="el">WRC 2026</title>
     <desc lang="el">Ιταλία, SS17 Sassari - Argentiera 2 Wolf Power Stage. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2026. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261112232000 +0200" stop="20261113002000 +0200" channel="XTV100001063">
+  <programme start="20261112233500 +0200" stop="20261113003500 +0200" channel="XTV100001063">
     <title lang="el">WRC</title>
     <desc lang="el">Ιταλία, Ανασκόπηση. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261113002000 +0200" stop="20261113013000 +0200" channel="XTV100001063">
+  <programme start="20261113003500 +0200" stop="20261113014500 +0200" channel="XTV100001063">
     <title lang="el">Motorsports: MotoGP 2026</title>
     <desc lang="el">Γκραν Πρι Κατάρ (Tissot Sprint). Το Παγκόσμιο Πρωτάθλημα FIM MotoGP περιλαμβάνει 11 ομάδες και συνολικά 22 αναβάτες, που διεκδικούν τον τίτλο μέσα από 22 Γκραν Πρι. Περιγραφή: Δημήτρης Διατσίδης.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261113013000 +0200" stop="20261113022500 +0200" channel="XTV100001063">
+  <programme start="20261113014500 +0200" stop="20261113024000 +0200" channel="XTV100001063">
     <title lang="el">2026 FIA World Championship - Στιγμιότυπα</title>
     <desc lang="el">Ράλι του Μαρόκου. Απολαύστε έντονη δράση με απίστευτα και μοναδικά οχήματα!</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261113022500 +0200" stop="20261113025500 +0200" channel="XTV100001063">
-    <title lang="el">ERC 2026</title>
-    <desc lang="el">Πορτογαλία, Ανασκόπηση. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος.</desc>
-    <category lang="el">Μηχανοκίνητα</category>
+  <programme start="20261113024000 +0200" stop="20261113025500 +0200" channel="XTV100001063">
+    <title lang="el">Αθλητικά Στιγμιότυπα</title>
+    <desc lang="el">Παρακολουθήστε τις καλύτερες φάσεις από τον κόσμο των σπορ.</desc>
+    <category lang="el">Στιγμιότυπα</category>
   </programme>
   <programme start="20261113025500 +0200" stop="20261113035500 +0200" channel="XTV100001063">
     <title lang="el">Motorsports: Extreme E 2025</title>
@@ -70281,22 +70266,22 @@
     <desc lang="el">Σπίλμπεργκ, Αυστρία - 2ος Αγώνας. Το 2026 είναι η 20ή σεζόν του Rookies Cup. Ξεκινώντας από την Χέρεζ τον Απρίλιο, η σειρά μεταφέρεται στα κλασικά Grand Prix της Ευρώπης και ολοκληρώνεται στο Spielberg τον Σεπτέμβριο. Περιγραφή: Δήμητρα Λαδά, Χριστόφορος Ζουλινάκης.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261114093500 +0200" stop="20261114103500 +0200" channel="XTV100001063">
+  <programme start="20261114093500 +0200" stop="20261114103000 +0200" channel="XTV100001063">
     <title lang="el">WRC</title>
     <desc lang="el">Ιταλία, Ανασκόπηση. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261114103500 +0200" stop="20261114113500 +0200" channel="XTV100001063">
+  <programme start="20261114103000 +0200" stop="20261114112500 +0200" channel="XTV100001063">
     <title lang="el">DTM</title>
     <desc lang="el">Ανασκόπηση. Το Γερμανικό Πρωτάθλημα Τουρισμού φιλοξενεί τροποποιημένα αυτοκίνητα που κυκλοφορούν στον δρόμο, αποτελείται από 16 αγώνες σε 8 αγωνιστικά διήμερα. Η διοργάνωση έχει ως βάση της τη Γερμανία.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261114113500 +0200" stop="20261114120500 +0200" channel="XTV100001063">
+  <programme start="20261114112500 +0200" stop="20261114115500 +0200" channel="XTV100001063">
     <title lang="el">ERC 2026</title>
     <desc lang="el">Πορτογαλία, Ανασκόπηση. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261114120500 +0200" stop="20261114130500 +0200" channel="XTV100001063">
+  <programme start="20261114115500 +0200" stop="20261114130500 +0200" channel="XTV100001063">
     <title lang="el">Grand Prix Show 2026</title>
     <desc lang="el">Η εκπομπή για όλες τις εξελίξεις στα πρωταθλήματα μηχανοκίνητου αθλητισμού που φιλοξενεί η MagentaTV (MotoGP, WRC, ERC, FIA WORLD RALLYCROSS, DTM).</desc>
     <category lang="el">Εκπομπή</category>
@@ -70401,27 +70386,27 @@
     <desc lang="el">Ιταλία, SS17 Sassari - Argentiera 2 Wolf Power Stage. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2026. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261115113000 +0200" stop="20261115123000 +0200" channel="XTV100001063">
+  <programme start="20261115113000 +0200" stop="20261115122500 +0200" channel="XTV100001063">
     <title lang="el">WRC</title>
     <desc lang="el">Ιταλία, Ανασκόπηση. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261115123000 +0200" stop="20261115133000 +0200" channel="XTV100001063">
+  <programme start="20261115122500 +0200" stop="20261115132500 +0200" channel="XTV100001063">
     <title lang="el">WRC 2026</title>
     <desc lang="el">Ανασκόπηση Σεζόν. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2026.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261115133000 +0200" stop="20261115142500 +0200" channel="XTV100001063">
+  <programme start="20261115132500 +0200" stop="20261115142000 +0200" channel="XTV100001063">
     <title lang="el">2026 FIA World Championship - Στιγμιότυπα</title>
     <desc lang="el">Ράλι του Μαρόκου. Απολαύστε έντονη δράση με απίστευτα και μοναδικά οχήματα!</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261115142500 +0200" stop="20261115145500 +0200" channel="XTV100001063">
+  <programme start="20261115142000 +0200" stop="20261115145000 +0200" channel="XTV100001063">
     <title lang="el">ERC 2026</title>
     <desc lang="el">Πορτογαλία, Ανασκόπηση. Με χρονιά εκκίνησης το 1953, το Ευρωπαϊκό Πρωτάθλημα Ράλι της FIA είναι το απόλυτο πεδίο προπόνησης για τα νέα ταλέντα που στοχεύουν στην κορυφή του αθλήματος.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261115145500 +0200" stop="20261115160000 +0200" channel="XTV100001063">
+  <programme start="20261115145000 +0200" stop="20261115160000 +0200" channel="XTV100001063">
     <title lang="el">Grand Prix Show 2026</title>
     <desc lang="el">Η εκπομπή για όλες τις εξελίξεις στα πρωταθλήματα μηχανοκίνητου αθλητισμού που φιλοξενεί η MagentaTV (MotoGP, WRC, ERC, FIA WORLD RALLYCROSS, DTM).</desc>
     <category lang="el">Εκπομπή</category>
@@ -70707,13 +70692,13 @@
     <category lang="el">Εκπομπή</category>
   </programme>
   <programme start="20261110140000 +0200" stop="20261110160000 +0200" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Στοκχόλμη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
+    <title lang="el">Τένις: Άλεξ Μίκελσεν - Χουάν Μανουέλ Σερούντολο (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Στοκχόλμη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Γιάννης Μάριος Παπαδόπουλος.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20261110160000 +0200" stop="20261110183000 +0200" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Στοκχόλμη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
+    <title lang="el">Τένις: Τόμας Μάρτιν Ετσεβέρι - Τιάγκο Αγκουστίν Τιράντε (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Στοκχόλμη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20261110183000 +0200" stop="20261110190000 +0200" channel="XTV100001360">
@@ -70722,13 +70707,13 @@
     <category lang="el">Υδάτινα Σπορ</category>
   </programme>
   <programme start="20261110190000 +0200" stop="20261110210000 +0200" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Στοκχόλμη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Πάνος Μάλαμας.</desc>
+    <title lang="el">Τένις: Χόλγκερ Ρούνε - Ζίζου Μπεργκς (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Στοκχόλμη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Πάνος Μάλαμας.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20261110210000 +0200" stop="20261110233000 +0200" channel="XTV100001360">
-    <title lang="el">Τένις: ATP 250 2026 (Ζ)</title>
-    <desc lang="el">Στοκχόλμη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Πάνος Μάλαμας.</desc>
+    <title lang="el">Τένις: Λορέντζο Μουζέτι - Τόμπι Σάμιουελ (Ζ)</title>
+    <desc lang="el">ATP 250 2026. Στοκχόλμη (Κυρίως ταμπλό). Το ATP Tour 250 είναι η χαμηλότερη βαθμίδα στα τουρνουά τένις ανδρών στο κυρίως ATP Tour. Περιγραφή: Πάνος Μάλαμας.</desc>
     <category lang="el">Τένις</category>
   </programme>
   <programme start="20261110233000 +0200" stop="20261111000000 +0200" channel="XTV100001360">
@@ -73136,32 +73121,32 @@
     <desc lang="el">Κουβέιτ (Ημιτελικός Γυναικών). Το Premier Padel είναι η μόνη διοργάνωση που προσφέρει επίσημους πόντους κατάταξης στους παίκτες και τα τουρνουά P1 απονέμουν στους νικητές 1000 πόντους κι ένα μεγάλο χρηματικό έπαθλο. Περιγραφή: Παύλος Παλαιστής.</desc>
     <category lang="el">Πάντελ</category>
   </programme>
-  <programme start="20261111113500 +0200" stop="20261111133500 +0200" channel="XTV900000002">
+  <programme start="20261111113500 +0200" stop="20261111132000 +0200" channel="XTV900000002">
     <title lang="el">Μπάσκετ: Μπούρσασπορ - Φενέρμπαχτσε</title>
     <desc lang="el">Turkish Basketball Super League 2026-27. 7η Αγωνιστική.  Περιγραφή: Γιάννης Φιλέρης.</desc>
     <category lang="el">Μπάσκετ</category>
   </programme>
-  <programme start="20261111133500 +0200" stop="20261111143000 +0200" channel="XTV900000002">
+  <programme start="20261111132000 +0200" stop="20261111141500 +0200" channel="XTV900000002">
     <title lang="el">DTM</title>
     <desc lang="el">Ανασκόπηση. Το Γερμανικό Πρωτάθλημα Τουρισμού φιλοξενεί τροποποιημένα αυτοκίνητα που κυκλοφορούν στον δρόμο, αποτελείται από 16 αγώνες σε 8 αγωνιστικά διήμερα. Η διοργάνωση έχει ως βάση της τη Γερμανία.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261111143000 +0200" stop="20261111153000 +0200" channel="XTV900000002">
+  <programme start="20261111141500 +0200" stop="20261111151500 +0200" channel="XTV900000002">
     <title lang="el">WRC 2026</title>
     <desc lang="el">Ανασκόπηση Σεζόν. Παρακολουθήστε το Παγκόσμιο Πρωτάθλημα ράλι του 2026.</desc>
     <category lang="el">Μηχανοκίνητα</category>
   </programme>
-  <programme start="20261111153000 +0200" stop="20261111160000 +0200" channel="XTV900000002">
+  <programme start="20261111151500 +0200" stop="20261111154500 +0200" channel="XTV900000002">
     <title lang="el">UEFA Champions League Μαγκαζίνο 2026-27 Ε10</title>
     <desc lang="el">Μια σειρά εκπομπών αφιερωμένη στο UEFA Champions League με συνεντεύξεις παικτών και προπονητών, παρουσίαση προφίλ των ομάδων και αποκλειστικά πλάνα από την κορυφαία διοργάνωση.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20261111160000 +0200" stop="20261111165500 +0200" channel="XTV900000002">
+  <programme start="20261111154500 +0200" stop="20261111164500 +0200" channel="XTV900000002">
     <title lang="el">Στιγμιότυπα: UEL &amp; UECL 2026-27</title>
-    <desc lang="el">Πριν από τη σέντρα στους αγώνες του Europa και του Conference League, παρακολουθήστε την ειδική εκπομπή που παρουσιάζει όλα τα τελευταία νέα των ομάδων που συμμετέχουν στις δύο διοργανώσεις.</desc>
+    <desc lang="el">League Phase, Στιγµιότυπα [05.11]. Πριν από τη σέντρα στους αγώνες του Europa και του Conference League, παρακολουθήστε την ειδική εκπομπή που παρουσιάζει όλα τα τελευταία νέα των ομάδων που συμμετέχουν στις δύο διοργανώσεις.</desc>
     <category lang="el">Ποδόσφαιρο</category>
   </programme>
-  <programme start="20261111165500 +0200" stop="20261111180000 +0200" channel="XTV900000002">
+  <programme start="20261111164500 +0200" stop="20261111180000 +0200" channel="XTV900000002">
     <title lang="el">Grand Prix Show 2026</title>
     <desc lang="el">Η εκπομπή για όλες τις εξελίξεις στα πρωταθλήματα μηχανοκίνητου αθλητισμού που φιλοξενεί η MagentaTV (MotoGP, WRC, ERC, FIA WORLD RALLYCROSS, DTM).</desc>
     <category lang="el">Εκπομπή</category>

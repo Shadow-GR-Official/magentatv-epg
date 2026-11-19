@@ -78350,6 +78350,371 @@
     <desc lang="el">Παρακολουθήστε τις οδηγίες, τις συμβουλές και τις ασκήσεις που θα σας βοηθήσουν να βελτιώσετε τη ζωή σας.</desc>
     <category lang="el">Υγεία - Wellbeing</category>
   </programme>
+  <programme start="20261119000000 +0200" stop="20261119010000 +0200" channel="XTV900000009">
+    <title lang="el">NFL Fantasy Live (Ζ)</title>
+    <desc lang="el">Αναλύσεις και συμβουλές για παίκτες fantasy football.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261119010000 +0200" stop="20261119020000 +0200" channel="XTV900000009">
+    <title lang="el">NFL Live</title>
+    <desc lang="el">Παρακολουθήστε τα νέα και τις αναλύσεις από τον κόσμο του NFL.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261119020000 +0200" stop="20261119030000 +0200" channel="XTV900000009">
+    <title lang="el">The Insiders (Ζ)</title>
+    <desc lang="el">Έκτακτη επικαιρότητα, έγκυρα ρεπορτάζ και αποκλειστικές πληροφορίες σχετικά με τη διοργάνωση.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261119030000 +0200" stop="20261119040000 +0200" channel="XTV900000009">
+    <title lang="el">2026 United Football League Draft (Ζ)</title>
+    <desc lang="el">Η United Football League (UFL) είναι η κορυφαία διοργάνωση αμερικανικού ποδοσφαίρου που διεξάγεται την άνοιξη και η οποία δημιουργήθηκε το 2024 από τη συγχώνευση των XFL και USFL.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261119040000 +0200" stop="20261119063000 +0200" channel="XTV900000009">
+    <title lang="el">Αμερικάνικο Ποδόσφαιρο: Γκριν Μπέι Πάκερς - Μινεσότα Βίκινγκς (Ζ)</title>
+    <desc lang="el">NFL 2026 - 27 - Κανονική διάρκεια.</desc>
+    <category lang="el">Αμερικάνικο Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20261119063000 +0200" stop="20261119073000 +0200" channel="XTV900000009">
+    <title lang="el">The Insiders</title>
+    <desc lang="el">Έκτακτη επικαιρότητα, έγκυρα ρεπορτάζ και αποκλειστικές πληροφορίες σχετικά με τη διοργάνωση.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261119073000 +0200" stop="20261119083000 +0200" channel="XTV900000009">
+    <title lang="el">NFL Fantasy Live</title>
+    <desc lang="el">Αναλύσεις και συμβουλές για παίκτες fantasy football.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261119083000 +0200" stop="20261119110000 +0200" channel="XTV900000009">
+    <title lang="el">Αμερικάνικο Ποδόσφαιρο: Σινσινάτι Μπένγκαλς - Πίτσμπουργκ Στίλερς (Ζ)</title>
+    <desc lang="el">NFL 2026 - 27 - Κανονική διάρκεια.</desc>
+    <category lang="el">Αμερικάνικο Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20261119110000 +0200" stop="20261119120000 +0200" channel="XTV900000009">
+    <title lang="el">The Insiders</title>
+    <desc lang="el">Έκτακτη επικαιρότητα, έγκυρα ρεπορτάζ και αποκλειστικές πληροφορίες σχετικά με τη διοργάνωση.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261119120000 +0200" stop="20261119130000 +0200" channel="XTV900000009">
+    <title lang="el">NFL Fantasy Live</title>
+    <desc lang="el">Αναλύσεις και συμβουλές για παίκτες fantasy football.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261119130000 +0200" stop="20261119140000 +0200" channel="XTV900000009">
+    <title lang="el">The Insiders</title>
+    <desc lang="el">Έκτακτη επικαιρότητα, έγκυρα ρεπορτάζ και αποκλειστικές πληροφορίες σχετικά με τη διοργάνωση.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261119140000 +0200" stop="20261119150000 +0200" channel="XTV900000009">
+    <title lang="el">NFL Fantasy Live</title>
+    <desc lang="el">Αναλύσεις και συμβουλές για παίκτες fantasy football.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261119150000 +0200" stop="20261119170000 +0200" channel="XTV900000009">
+    <title lang="el">Good Morning Football (Ζ)</title>
+    <desc lang="el">Καθημερινή ενημέρωση, συζητήσεις και ψυχαγωγικό περιεχόμενο για το NFL.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261119170000 +0200" stop="20261119190000 +0200" channel="XTV900000009">
+    <title lang="el">Good Morning Football</title>
+    <desc lang="el">Καθημερινή ενημέρωση, συζητήσεις και ψυχαγωγικό περιεχόμενο για το NFL.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261119190000 +0200" stop="20261119210000 +0200" channel="XTV900000009">
+    <title lang="el">NFL Total Access (Ζ)</title>
+    <desc lang="el">Όλη η επικαιρότητα της διοργάνωσης, συνεντεύξεις και αναλυτικός σχολιασμός.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261119210000 +0200" stop="20261120000000 +0200" channel="XTV900000009">
+    <title lang="el">Αμερικάνικο Ποδόσφαιρο: Νιου Γιορκ Τζάιαντς - Ουάσινγκτον Κομάντερς</title>
+    <desc lang="el">NFL 2026 - 27 - Κανονική διάρκεια.</desc>
+    <category lang="el">Αμερικάνικο Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20261120000000 +0200" stop="20261120010000 +0200" channel="XTV900000009">
+    <title lang="el">NFL Fantasy Live (Ζ)</title>
+    <desc lang="el">Αναλύσεις και συμβουλές για παίκτες fantasy football.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261120010000 +0200" stop="20261120020000 +0200" channel="XTV900000009">
+    <title lang="el">NFL GameDay</title>
+    <desc lang="el">Κάλυψη πριν από τον αγώνα, στο ημίχρονο και μετά τη λήξη του.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261120020000 +0200" stop="20261120030000 +0200" channel="XTV900000009">
+    <title lang="el">2026 United Football League Draft</title>
+    <desc lang="el">Η United Football League (UFL) είναι η κορυφαία διοργάνωση αμερικανικού ποδοσφαίρου που διεξάγεται την άνοιξη και η οποία δημιουργήθηκε το 2024 από τη συγχώνευση των XFL και USFL.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261120030000 +0200" stop="20261120060000 +0200" channel="XTV900000009">
+    <title lang="el">Αμερικάνικο Ποδόσφαιρο: Ντάλας Κάουμποϊς - Σαν Φρανσίσκο 49ερς</title>
+    <desc lang="el">NFL 2026 - 27 - Κανονική διάρκεια.</desc>
+    <category lang="el">Αμερικάνικο Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20261120060000 +0200" stop="20261120063000 +0200" channel="XTV900000009">
+    <title lang="el">NFL Mic'd Up</title>
+    <desc lang="el">Πριν από τους αγώνες, επιλεγμένοι παίκτες και προπονητές φορούν μικρό ασύρματο μικρόφωνο, επιτρέποντας στην ομάδα ηχητικής κάλυψης να καταγράφει αυθεντικούς διαλόγους εντός αγωνιστικού χώρου και αντιδράσεις από τον πάγκο.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261120063000 +0200" stop="20261120073000 +0200" channel="XTV900000009">
+    <title lang="el">NFL GameDay (Ζ)</title>
+    <desc lang="el">Κάλυψη πριν από τον αγώνα, στο ημίχρονο και μετά τη λήξη του.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261120073000 +0200" stop="20261120100000 +0200" channel="XTV900000009">
+    <title lang="el">Αμερικάνικο Ποδόσφαιρο: Χιούστον Τέξανς - Ιντιανάπολις Κολτς (Ζ)</title>
+    <desc lang="el">NFL 2026 - 27 - Κανονική διάρκεια.</desc>
+    <category lang="el">Αμερικάνικο Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20261120100000 +0200" stop="20261120110000 +0200" channel="XTV900000009">
+    <title lang="el">NFL GameDay</title>
+    <desc lang="el">Κάλυψη πριν από τον αγώνα, στο ημίχρονο και μετά τη λήξη του.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261120110000 +0200" stop="20261120120000 +0200" channel="XTV900000009">
+    <title lang="el">NFL GameDay</title>
+    <desc lang="el">Κάλυψη πριν από τον αγώνα, στο ημίχρονο και μετά τη λήξη του.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261120120000 +0200" stop="20261120150000 +0200" channel="XTV900000009">
+    <title lang="el">Αμερικάνικο Ποδόσφαιρο: Χιούστον Τέξανς - Χιούστον Τέξανς (Ζ)</title>
+    <desc lang="el">NFL 2026 - 27 - Κανονική διάρκεια.</desc>
+    <category lang="el">Αμερικάνικο Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20261120150000 +0200" stop="20261120170000 +0200" channel="XTV900000009">
+    <title lang="el">Good Morning Football (Ζ)</title>
+    <desc lang="el">Καθημερινή ενημέρωση, συζητήσεις και ψυχαγωγικό περιεχόμενο για το NFL.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261120170000 +0200" stop="20261120190000 +0200" channel="XTV900000009">
+    <title lang="el">Good Morning Football</title>
+    <desc lang="el">Καθημερινή ενημέρωση, συζητήσεις και ψυχαγωγικό περιεχόμενο για το NFL.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261120190000 +0200" stop="20261120210000 +0200" channel="XTV900000009">
+    <title lang="el">NFL Total Access (Ζ)</title>
+    <desc lang="el">Όλη η επικαιρότητα της διοργάνωσης, συνεντεύξεις και αναλυτικός σχολιασμός.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261120210000 +0200" stop="20261121000000 +0200" channel="XTV900000009">
+    <title lang="el">Αμερικάνικο Ποδόσφαιρο: Χιούστον Τέξανς - Ιντιανάπολις Κολτς</title>
+    <desc lang="el">NFL 2026 - 27 - Κανονική διάρκεια.</desc>
+    <category lang="el">Αμερικάνικο Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20261121000000 +0200" stop="20261121010000 +0200" channel="XTV900000009">
+    <title lang="el">NFL Fantasy Live (Ζ)</title>
+    <desc lang="el">Αναλύσεις και συμβουλές για παίκτες fantasy football.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261121010000 +0200" stop="20261121020000 +0200" channel="XTV900000009">
+    <title lang="el">NFL Live</title>
+    <desc lang="el">Παρακολουθήστε τα νέα και τις αναλύσεις από τον κόσμο του NFL.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261121020000 +0200" stop="20261121030000 +0200" channel="XTV900000009">
+    <title lang="el">The Insiders (Ζ)</title>
+    <desc lang="el">Έκτακτη επικαιρότητα, έγκυρα ρεπορτάζ και αποκλειστικές πληροφορίες σχετικά με τη διοργάνωση.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261121030000 +0200" stop="20261121060000 +0200" channel="XTV900000009">
+    <title lang="el">Αμερικάνικο Ποδόσφαιρο: Χιούστον Τέξανς - Χιούστον Τέξανς</title>
+    <desc lang="el">NFL 2026 - 27 - Κανονική διάρκεια.</desc>
+    <category lang="el">Αμερικάνικο Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20261121060000 +0200" stop="20261121070000 +0200" channel="XTV900000009">
+    <title lang="el">The Insiders</title>
+    <desc lang="el">Έκτακτη επικαιρότητα, έγκυρα ρεπορτάζ και αποκλειστικές πληροφορίες σχετικά με τη διοργάνωση.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261121070000 +0200" stop="20261121080000 +0200" channel="XTV900000009">
+    <title lang="el">NFL Fantasy Live</title>
+    <desc lang="el">Αναλύσεις και συμβουλές για παίκτες fantasy football.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261121080000 +0200" stop="20261121110000 +0200" channel="XTV900000009">
+    <title lang="el">Αμερικάνικο Ποδόσφαιρο: Ντάλας Κάουμποϊς - Σαν Φρανσίσκο 49ερς</title>
+    <desc lang="el">NFL 2026 - 27 - Κανονική διάρκεια.</desc>
+    <category lang="el">Αμερικάνικο Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20261121110000 +0200" stop="20261121120000 +0200" channel="XTV900000009">
+    <title lang="el">The Insiders</title>
+    <desc lang="el">Έκτακτη επικαιρότητα, έγκυρα ρεπορτάζ και αποκλειστικές πληροφορίες σχετικά με τη διοργάνωση.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261121120000 +0200" stop="20261121130000 +0200" channel="XTV900000009">
+    <title lang="el">NFL Fantasy Live</title>
+    <desc lang="el">Αναλύσεις και συμβουλές για παίκτες fantasy football.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261121130000 +0200" stop="20261121153000 +0200" channel="XTV900000009">
+    <title lang="el">Αμερικάνικο Ποδόσφαιρο: Χιούστον Τέξανς - Ιντιανάπολις Κολτς</title>
+    <desc lang="el">NFL 2026 - 27 - Κανονική διάρκεια.</desc>
+    <category lang="el">Αμερικάνικο Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20261121153000 +0200" stop="20261121180000 +0200" channel="XTV900000009">
+    <title lang="el">Αμερικάνικο Ποδόσφαιρο: Γκριν Μπέι Πάκερς - Μινεσότα Βίκινγκς</title>
+    <desc lang="el">NFL 2026 - 27 - Κανονική διάρκεια.</desc>
+    <category lang="el">Αμερικάνικο Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20261121180000 +0200" stop="20261121183000 +0200" channel="XTV900000009">
+    <title lang="el">NFL Matchup</title>
+    <desc lang="el">Μια προεπισκόπηση των σημαντικότερων αναμετρήσεων του Σαββατοκύριακου.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261121183000 +0200" stop="20261121200000 +0200" channel="XTV900000009">
+    <title lang="el">NFL Network</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
+    <category lang="el">Αμερικάνικο Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20261121200000 +0200" stop="20261121223000 +0200" channel="XTV900000009">
+    <title lang="el">Αμερικάνικο Ποδόσφαιρο: Λας Βέγκας Ρέιντερς - Σιάτλ Σίχοκς</title>
+    <desc lang="el">NFL 2026 - 27 - Κανονική διάρκεια.</desc>
+    <category lang="el">Αμερικάνικο Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20261121223000 +0200" stop="20261122010000 +0200" channel="XTV900000009">
+    <title lang="el">Αμερικάνικο Ποδόσφαιρο: Σινσινάτι Μπένγκαλς - Πίτσμπουργκ Στίλερς</title>
+    <desc lang="el">NFL 2026 - 27 - Κανονική διάρκεια.</desc>
+    <category lang="el">Αμερικάνικο Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20261122010000 +0200" stop="20261122033000 +0200" channel="XTV900000009">
+    <title lang="el">Αμερικάνικο Ποδόσφαιρο: Γκριν Μπέι Πάκερς - Μινεσότα Βίκινγκς</title>
+    <desc lang="el">NFL 2026 - 27 - Κανονική διάρκεια.</desc>
+    <category lang="el">Αμερικάνικο Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20261122033000 +0200" stop="20261122060000 +0200" channel="XTV900000009">
+    <title lang="el">Αμερικάνικο Ποδόσφαιρο: Ντάλας Κάουμποϊς - Σαν Φρανσίσκο 49ερς</title>
+    <desc lang="el">NFL 2026 - 27 - Κανονική διάρκεια.</desc>
+    <category lang="el">Αμερικάνικο Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20261122060000 +0200" stop="20261122063000 +0200" channel="XTV900000009">
+    <title lang="el">NFL Matchup</title>
+    <desc lang="el">Μια προεπισκόπηση των σημαντικότερων αναμετρήσεων του Σαββατοκύριακου.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261122063000 +0200" stop="20261122070000 +0200" channel="XTV900000009">
+    <title lang="el">The Breakdown</title>
+    <desc lang="el">Οι θρύλοι του αμερικανικού ποδοσφαίρου και μέλη του Pro Football Hall of Fame, Peyton Manning και Luke Kuechly, αναλύουν στο βίντεο των αγώνων τις αναμετρήσεις που ακολουθούν.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261122070000 +0200" stop="20261122093000 +0200" channel="XTV900000009">
+    <title lang="el">Αμερικάνικο Ποδόσφαιρο: Λας Βέγκας Ρέιντερς - Σιάτλ Σίχοκς</title>
+    <desc lang="el">NFL 2026 - 27 - Κανονική διάρκεια.</desc>
+    <category lang="el">Αμερικάνικο Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20261122093000 +0200" stop="20261122120000 +0200" channel="XTV900000009">
+    <title lang="el">Αμερικάνικο Ποδόσφαιρο: Γκριν Μπέι Πάκερς - Μινεσότα Βίκινγκς</title>
+    <desc lang="el">NFL 2026 - 27 - Κανονική διάρκεια.</desc>
+    <category lang="el">Αμερικάνικο Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20261122120000 +0200" stop="20261122150000 +0200" channel="XTV900000009">
+    <title lang="el">Αμερικάνικο Ποδόσφαιρο: Ντάλας Κάουμποϊς - Σαν Φρανσίσκο 49ερς</title>
+    <desc lang="el">NFL 2026 - 27 - Κανονική διάρκεια.</desc>
+    <category lang="el">Αμερικάνικο Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20261122150000 +0200" stop="20261122153000 +0200" channel="XTV900000009">
+    <title lang="el">NFL Network</title>
+    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
+    <category lang="el">Αμερικάνικο Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20261122153000 +0200" stop="20261122160000 +0200" channel="XTV900000009">
+    <title lang="el">NFL Matchup</title>
+    <desc lang="el">Μια προεπισκόπηση των σημαντικότερων αναμετρήσεων του Σαββατοκύριακου.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261122160000 +0200" stop="20261122200000 +0200" channel="XTV900000009">
+    <title lang="el">NFL GameDay (Ζ)</title>
+    <desc lang="el">Κάλυψη πριν από τον αγώνα, στο ημίχρονο και μετά τη λήξη του.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261122200000 +0200" stop="20261122233000 +0200" channel="XTV900000009">
+    <title lang="el">NFL GameDay (Ζ)</title>
+    <desc lang="el">Κάλυψη πριν από τον αγώνα, στο ημίχρονο και μετά τη λήξη του.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261122233000 +0200" stop="20261123023000 +0200" channel="XTV900000009">
+    <title lang="el">NFL GameDay (Ζ)</title>
+    <desc lang="el">Κάλυψη πριν από τον αγώνα, στο ημίχρονο και μετά τη λήξη του.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261123023000 +0200" stop="20261123033000 +0200" channel="XTV900000009">
+    <title lang="el">NFL GameDay (Ζ)</title>
+    <desc lang="el">Κάλυψη πριν από τον αγώνα, στο ημίχρονο και μετά τη λήξη του.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261123033000 +0200" stop="20261123043000 +0200" channel="XTV900000009">
+    <title lang="el">NFL GameDay</title>
+    <desc lang="el">Κάλυψη πριν από τον αγώνα, στο ημίχρονο και μετά τη λήξη του.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261123043000 +0200" stop="20261123053000 +0200" channel="XTV900000009">
+    <title lang="el">NFL GameDay</title>
+    <desc lang="el">Κάλυψη πριν από τον αγώνα, στο ημίχρονο και μετά τη λήξη του.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261123053000 +0200" stop="20261123063000 +0200" channel="XTV900000009">
+    <title lang="el">NFL GameDay</title>
+    <desc lang="el">Κάλυψη πριν από τον αγώνα, στο ημίχρονο και μετά τη λήξη του.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261123063000 +0200" stop="20261123073000 +0200" channel="XTV900000009">
+    <title lang="el">NFL GameDay (Ζ)</title>
+    <desc lang="el">Κάλυψη πριν από τον αγώνα, στο ημίχρονο και μετά τη λήξη του.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261123073000 +0200" stop="20261123083000 +0200" channel="XTV900000009">
+    <title lang="el">NFL GameDay</title>
+    <desc lang="el">Κάλυψη πριν από τον αγώνα, στο ημίχρονο και μετά τη λήξη του.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261123083000 +0200" stop="20261123093000 +0200" channel="XTV900000009">
+    <title lang="el">NFL GameDay</title>
+    <desc lang="el">Κάλυψη πριν από τον αγώνα, στο ημίχρονο και μετά τη λήξη του.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261123093000 +0200" stop="20261123120000 +0200" channel="XTV900000009">
+    <title lang="el">Αμερικάνικο Ποδόσφαιρο: Σαν Φρανσίσκο 49ερς - Μινεσότα Βίκινγκς (Ζ)</title>
+    <desc lang="el">NFL 2026 - 27 - Κανονική διάρκεια. Στην 107η διοργάνωση του κορυφαίου πρωταθλήματος American Football στον κόσμο συμμετέχουν 32 ομάδες. Στόχος, μια θέση στο Super Bowl.</desc>
+    <category lang="el">Αμερικάνικο Ποδόσφαιρο</category>
+  </programme>
+  <programme start="20261123120000 +0200" stop="20261123130000 +0200" channel="XTV900000009">
+    <title lang="el">NFL GameDay</title>
+    <desc lang="el">Κάλυψη πριν από τον αγώνα, στο ημίχρονο και μετά τη λήξη του.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261123130000 +0200" stop="20261123140000 +0200" channel="XTV900000009">
+    <title lang="el">NFL GameDay</title>
+    <desc lang="el">Κάλυψη πριν από τον αγώνα, στο ημίχρονο και μετά τη λήξη του.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261123140000 +0200" stop="20261123150000 +0200" channel="XTV900000009">
+    <title lang="el">NFL GameDay</title>
+    <desc lang="el">Κάλυψη πριν από τον αγώνα, στο ημίχρονο και μετά τη λήξη του.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261123150000 +0200" stop="20261123170000 +0200" channel="XTV900000009">
+    <title lang="el">Good Morning Football (Ζ)</title>
+    <desc lang="el">Καθημερινή ενημέρωση, συζητήσεις και ψυχαγωγικό περιεχόμενο για το NFL.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261123170000 +0200" stop="20261123190000 +0200" channel="XTV900000009">
+    <title lang="el">Good Morning Football</title>
+    <desc lang="el">Καθημερινή ενημέρωση, συζητήσεις και ψυχαγωγικό περιεχόμενο για το NFL.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261123190000 +0200" stop="20261123220000 +0200" channel="XTV900000009">
+    <title lang="el">The Aftermath (Ζ)</title>
+    <desc lang="el">Δηλώσεις προπονητών, συνεντεύξεις Τύπου και άμεσες αντιδράσεις.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261123220000 +0200" stop="20261124000000 +0200" channel="XTV900000009">
+    <title lang="el">NFL Live (Ζ)</title>
+    <desc lang="el">Παρακολουθήστε τα νέα και τις αναλύσεις από τον κόσμο του NFL.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
+  <programme start="20261124000000 +0200" stop="20261124010000 +0200" channel="XTV900000009">
+    <title lang="el">NFL Fantasy Live (Ζ)</title>
+    <desc lang="el">Αναλύσεις και συμβουλές για παίκτες fantasy football.</desc>
+    <category lang="el">Εκπομπή</category>
+  </programme>
   <programme start="20261124010000 +0200" stop="20261124030000 +0200" channel="XTV900000009">
     <title lang="el">Monday Night Countdown (Ζ)</title>
     <desc lang="el">Μια παρουσίαση της αναμέτρησης της Δευτέρας το βράδυ στο NFL.</desc>

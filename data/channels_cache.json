@@ -324,6 +324,11 @@
     "name": "MyZen TV",
     "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/MyZen_TV-normal.png"
   },
+  "XTV900000009": {
+    "id": "XTV900000009",
+    "name": "NFL Network",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/nfl_network_normal.png"
+  },
   "XTV100003511": {
     "id": "XTV100003511",
     "name": "Naftemporiki",

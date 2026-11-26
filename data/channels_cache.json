@@ -214,6 +214,11 @@
     "name": "Magenta Cinema 3",
     "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/magenta_cinema3_normal.png"
   },
+  "XTV100001965": {
+    "id": "XTV100001965",
+    "name": "Magenta Cinema Christmas",
+    "logo": "https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/Cinema_Christmas_normal.png"
+  },
   "XTV100001866": {
     "id": "XTV100001866",
     "name": "Magenta History",

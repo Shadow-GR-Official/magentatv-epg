@@ -172,6 +172,10 @@
     <display-name>Magenta Cinema 3</display-name>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/magenta_cinema3_normal.png" />
   </channel>
+  <channel id="XTV100001965">
+    <display-name>Magenta Cinema Christmas</display-name>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/Cinema_Christmas_normal.png" />
+  </channel>
   <channel id="XTV100001866">
     <display-name>Magenta History</display-name>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/channel_logos/magenta_history_normal.png" />
@@ -1345,39 +1349,39 @@
     <desc lang="el">Επεισόδιο: Η χήρα το 'σκασε. Ο Βαγγέλης γυρνά καταχαρούμενος στο σπίτι με την ξαδέρφη του, Κικίτσα, που συνάντησε τυχαία. Η Κικίτσα είναι μια στρυφνή χήρα, που, όπως ισχυρίζεται, ήρθε από τη Μεσσήνη για να φροντίσει μια εγχειρισμένη κοντοχωριανή της, ως αποκλειστική.</desc>
     <category lang="el">Κωμωδία</category>
   </programme>
-  <programme start="20261125210000 +0200" stop="20261125220000 +0200" channel="XTV100001262">
+  <programme start="20261125210000 +0200" stop="20261125221500 +0200" channel="XTV100001262">
     <title lang="el">Μπαμπά, Σ' Αγαπώ Κ2 Ε7</title>
     <desc lang="el">Επεισόδιο: Ο Τζίτζικας κι ο Μέρμηγκας. Ο Νίκος κάνει μια σοβαρή συζήτηση με τον Πανούλη για τη Στέλλα, στην οποία δείχνει έτοιμος να του δώσει την ευχή του. Στα πλαίσια της ανάληψης ευθυνών του Πανούλη, ο Νίκος του αναθέτει να κάνει σκηνή στη Στέλλα.</desc>
     <category lang="el">Οικογενειακή</category>
   </programme>
-  <programme start="20261125220000 +0200" stop="20261125233000 +0200" channel="XTV100001262">
+  <programme start="20261125221500 +0200" stop="20261125235000 +0200" channel="XTV100001262">
     <title lang="el">Μια Γυναίκα Ε15</title>
     <desc lang="el">Ο Μάρκος ομολογεί τον έρωτά του στη Μαρίνα. Εκείνη του ζητά να φύγει απ' το νοσοκομείο κι εκείνος διαλύεται. Η Ελένη ικετεύει τη συγχώρεση της Μαρίνας και την κερδίζει. Η Ελισάβετ μιλάει στον Κωστή για την Εύα και το ατύχημα του Νίκου.</desc>
     <category lang="el">Δραματική</category>
   </programme>
-  <programme start="20261125233000 +0200" stop="20261126010000 +0200" channel="XTV100001262">
+  <programme start="20261125235000 +0200" stop="20261126013000 +0200" channel="XTV100001262">
     <title lang="el">Αυτοψία</title>
     <desc lang="el">Η 'Αυτοψία' περνά την πόρτα των Γυναικείων Φυλακών Κορυδαλλού και ζει ένα 24ωρο με τις κρατούμενες.</desc>
     <category lang="el">Ειδήσεις</category>
   </programme>
-  <programme start="20261126010000 +0200" stop="20261126020000 +0200" channel="XTV100001262">
+  <programme start="20261126013000 +0200" stop="20261126022000 +0200" channel="XTV100001262">
     <title lang="el">Αυτή η Νύχτα Μένει Ε43 (Ε)</title>
     <desc lang="el">Η Φωτεινή δεν πιστεύει τον πατέρα της και ο Χρήστος έχει στριμωχτεί πλέον για τα καλά. Ο Στρατής αναζητά νέους συμμάχους για να κρατήσει ζωντανό το Όνειρο.</desc>
     <category lang="el">Κοινωνική</category>
   </programme>
-  <programme start="20261126020000 +0200" stop="20261126030000 +0200" channel="XTV100001262">
+  <programme start="20261126022000 +0200" stop="20261126031500 +0200" channel="XTV100001262">
     <title lang="el">Αυτή η Νύχτα Μένει Ε44 (Ε)</title>
     <desc lang="el">Η αντίδραση της Μυρτούς μετά το θάνατο του πατέρα της κάνει τον Πόντικα και τον Παπα-Ντανίλο να μείνουν παγωμένοι, νιώθοντας ανήμποροι να βοηθήσουν. Ο Χρήστος βρίσκει ένα καταφύγιο χαράς και πάθους που μπορεί να τον κάνει να ξεχάσει.</desc>
     <category lang="el">Κοινωνική</category>
   </programme>
-  <programme start="20261126030000 +0200" stop="20261126034500 +0200" channel="XTV100001262">
+  <programme start="20261126031500 +0200" stop="20261126040000 +0200" channel="XTV100001262">
+    <title lang="el">Tracker</title>
+    <desc lang="el">Ο μοναχικός επιβιωτιστής Colter Shaw περιπλανιέται σε όλη τη χώρα επιζητώντας τη δικαίωση. Χρησιμοποιώντας τις ιδιαίτερες ικανότητές του στον εντοπισμό, βοηθά απλούς ανθρώπους αλλά και την αστυνομία στην επίλυση όλων των ειδών μυστηρίων.</desc>
+    <category lang="el">Δραματική</category>
+  </programme>
+  <programme start="20261126040000 +0200" stop="20261126043000 +0200" channel="XTV100001262">
     <title lang="el">Άσε Μας Ρε Μαμά Ε58 (Ε)</title>
     <desc lang="el">Η Κορίνα προσπαθεί να συνηθίσει στην ιδέα της της ανάληψης των νέων καθηκόντων της, σαν διευθύντρια της Αρμέκο, ενώ η Νάντια πιέζει τον Λευτέρη να κάνει κάτι για να μπορέσει και εκείνος μια μέρα να διεκδικήσει την θέση.</desc>
-    <category lang="el">Οικογενειακή</category>
-  </programme>
-  <programme start="20261126034500 +0200" stop="20261126043000 +0200" channel="XTV100001262">
-    <title lang="el">Άσε Μας Ρε Μαμά Ε59 (Ε)</title>
-    <desc lang="el">Η Όλγα νομίζει ότι απολύθηκε στ αλήθεια κι αποφασίζει να πάει να βρει την Ρωξάνη. Παράλληλα, ο Δημήτρης τσακώνεται με την Έλλη για τη θυγατρική που ετοιμάζει στην εταιρία του Θωμά.</desc>
     <category lang="el">Οικογενειακή</category>
   </programme>
   <programme start="20261126043000 +0200" stop="20261126051500 +0200" channel="XTV100001262">
@@ -54439,6 +54443,191 @@
     <title lang="el">Έρωτες στη Λέσβο</title>
     <desc lang="el">Ένας Ελληνοαμερικάνος, μετά από μία λάθος ιατρική εκτίμηση, πιστεύει ότι είναι ετοιμοθάνατος. Καταχράται ένα μεγάλο ποσό από την αμερικάνικη εταιρεία στην οποία δουλεύει και καταφθάνει στην ιδιαίτερη πατρίδα του, την Μυτιλήνη, για να περάσει τις τελευταίες μέρες της ζωής του. (78')</desc>
     <category lang="el">Περιπέτεια</category>
+  </programme>
+  <programme start="20261126000000 +0200" stop="20261126040000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261126040000 +0200" stop="20261126080000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261126080000 +0200" stop="20261126120000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261126120000 +0200" stop="20261126160000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261126160000 +0200" stop="20261126200000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261126200000 +0200" stop="20261127000000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261127000000 +0200" stop="20261127040000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261127040000 +0200" stop="20261127080000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261127080000 +0200" stop="20261127120000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261127120000 +0200" stop="20261127160000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261127160000 +0200" stop="20261127200000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261127200000 +0200" stop="20261128000000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261128000000 +0200" stop="20261128040000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261128040000 +0200" stop="20261128080000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261128080000 +0200" stop="20261128120000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261128120000 +0200" stop="20261128160000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261128160000 +0200" stop="20261128200000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261128200000 +0200" stop="20261129000000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261129000000 +0200" stop="20261129040000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261129040000 +0200" stop="20261129080000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261129080000 +0200" stop="20261129120000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261129120000 +0200" stop="20261129160000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261129160000 +0200" stop="20261129200000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261129200000 +0200" stop="20261130000000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261130000000 +0200" stop="20261130040000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261130040000 +0200" stop="20261130080000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261130080000 +0200" stop="20261130120000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261130120000 +0200" stop="20261130160000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261130160000 +0200" stop="20261130200000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261130200000 +0200" stop="20261201000000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261201000000 +0200" stop="20261201040000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261201040000 +0200" stop="20261201080000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261201080000 +0200" stop="20261201120000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261201120000 +0200" stop="20261201160000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261201160000 +0200" stop="20261201200000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261201200000 +0200" stop="20261202000000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
+  </programme>
+  <programme start="20261202000000 +0200" stop="20261202040000 +0200" channel="XTV100001965">
+    <title lang="el">Magenta Cinema Christmas</title>
+    <desc lang="el">Αυτά τα Χριστούγεννα, το ρολόι χτυπάει... μαγικά, στο Magenta Cinema Christmas! Απολαύστε κάθε απόγευμα από τις 18:00 δύο αγαπημένες μεταγλωττισμένες ταινίες και κάθε βράδυ στις 21:30 τις πιο μαγικές χριστουγεννιάτικες ιστορίες. Από 3/12 έως 7/1, αποκλειστικά στη MagentaTV!</desc>
+    <category lang="el">Promo Card</category>
   </programme>
   <programme start="20261125020000 +0200" stop="20261125030000 +0200" channel="XTV100001866">
     <title lang="el">Ζευγάρια που Έγραψαν Ιστορία Ε2</title>
